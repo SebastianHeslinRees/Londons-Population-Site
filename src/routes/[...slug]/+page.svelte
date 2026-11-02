@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-	<title>Population Projections - {data.metadata.title}</title>
+	<title>London's Population - {data.metadata.title}</title>
 </svelte:head>
 
 <PageComponent />

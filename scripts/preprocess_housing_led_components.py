@@ -13,7 +13,7 @@ from pathlib import Path
 
 import pandas as pd
 
-BASE_DIR = Path('/Users/user1/Downloads/20260902_explorer_tool/output_pq')
+BASE_DIR = Path('/Users/user1/Downloads/20260825_explorer_tool')
 OUTPUT_FILE = Path('src/lib/data/HousingLedComponentsData.json')
 LONDON_GSS_CODE = 'E12000007'
 

@@ -3,7 +3,7 @@ export const chartColumns = [
 	{
 		dataset: '__default__',
 		xd_source: 'Date',
-		b_source: 'Trend',
+		b_source: 'Series',
 		y_source: 'Value'
 	}
 ];

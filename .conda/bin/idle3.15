@@ -1,0 +1,5 @@
+#!/Users/user1/Documents/Londons-Population-Site/.conda/bin/python3.15
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()

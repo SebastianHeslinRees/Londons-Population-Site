@@ -83,10 +83,7 @@
 				{/if}
 			</Button>
 			<a href={resolve('/')}>
-				<span class="product body font-semibold">
-					<span class="max-sm:hidden">GLA 2024-based</span>
-					Population Projections Report
-				</span>
+				<span class="product body font-semibold"> London's Population </span>
 			</a>
 		</Header>
 	</div>
@@ -121,7 +118,7 @@
 				<h3 class="mb-1 font-semibold">Contact</h3>
 				<ul class="text-color-text-muted">
 					<li>
-						<a href="mailto:demography@london.gov.uk?subject=Population Projections Report"
+						<a href="mailto:demography@london.gov.uk?subject=London's Population"
 							>demography@london.gov.uk</a
 						>
 					</li>

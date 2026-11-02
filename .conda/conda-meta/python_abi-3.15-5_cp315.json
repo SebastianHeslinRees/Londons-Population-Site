@@ -1,0 +1,31 @@
+{
+  "build": "5_cp315",
+  "build_number": 5,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [
+    "python 3.15.* *_cp315"
+  ],
+  "depends": [],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/python_abi-3.15-5_cp315",
+  "files": [],
+  "fn": "python_abi-3.15-5_cp315.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/python_abi-3.15-5_cp315",
+    "type": 1
+  },
+  "md5": "c3ac05267ca724a64c1b14a8ac5ad6c8",
+  "name": "python_abi",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/python_abi-3.15-5_cp315.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d6ec7aeadde3553956672844ed142d02452b465a6229f5f7b0258b112cf115b2",
+  "size": 5649,
+  "subdir": "osx-arm64",
+  "timestamp": 1790773343000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/python_abi-3.15-5_cp315.conda",
+  "version": "3.15"
+}

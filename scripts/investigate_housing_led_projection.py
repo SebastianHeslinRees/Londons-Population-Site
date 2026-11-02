@@ -9,7 +9,7 @@ import pandas as pd
 
 LONDON_GSS_CODE = 'E12000007'
 
-SOURCE_ROOT = Path('/Users/user1/Downloads/20260902_explorer_tool/output_pq')
+SOURCE_ROOT = Path('/Users/user1/Downloads/20260825_explorer_tool')
 DATA_DIR = Path('src/lib/data')
 HOUSING_OUTPUT = DATA_DIR / 'housingLedProjectedPopulation.json'
 COMPARISON_OUTPUT = DATA_DIR / 'housingLedVsTrendProjectionData.json'

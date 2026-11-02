@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>Population Projections</title>
+	<title>London's Population</title>
 </svelte:head>
 
 <PageComponent />
