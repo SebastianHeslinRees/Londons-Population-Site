@@ -56,9 +56,9 @@ export const datasets: Record<string, ChartDataRow[]> = {
 		.map((r) => ({ dataset: 'london_age_structure', xd: r.xd, b: String(LATEST_YEAR), y: r.y })),
 	london_age_groups: relabel(
 		[
-			...estimates(populationRows, 'proj2_primary_school_age_children', 'Primary school age'),
-			...estimates(populationRows, 'proj2_secondary_school_age_children', 'Secondary school age'),
-			...estimates(populationRows, 'proj2_population_age_65_plus', 'Aged 65 and over')
+			...estimates(populationRows, 'proj2_primary_school_age_children', 'Primary school'),
+			...estimates(populationRows, 'proj2_secondary_school_age_children', 'Secondary school'),
+			...estimates(populationRows, 'proj2_population_age_65_plus', '65 and over')
 		],
 		'london_age_groups'
 	)

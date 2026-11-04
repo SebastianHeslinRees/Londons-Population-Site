@@ -98,6 +98,9 @@
 					width={barWidth(row.male)}
 					height={rowHeight - 2}
 					fill={maleColor}
+					pointer-events="all"
+					title={`Male, ${row.ageBand}: ${formatValue(row.male)}`}
+					aria-label={`Male, ${row.ageBand}: ${formatValue(row.male)}`}
 				>
 					<title>Male, {row.ageBand}: {formatValue(row.male)}</title>
 				</rect>
@@ -113,6 +116,9 @@
 					width={barWidth(row.female)}
 					height={rowHeight - 2}
 					fill={femaleColor}
+					pointer-events="all"
+					title={`Female, ${row.ageBand}: ${formatValue(row.female)}`}
+					aria-label={`Female, ${row.ageBand}: ${formatValue(row.female)}`}
 				>
 					<title>Female, {row.ageBand}: {formatValue(row.female)}</title>
 				</rect>

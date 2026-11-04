@@ -24,7 +24,7 @@ const colorsMigration = $derived({
 
 const colorsAgeGroups = $derived({
 	colorScale: {
-		domain: ['Primary school age', 'Secondary school age', 'Aged 65 and over'],
+		domain: ['Primary school', 'Secondary school', '65 and over'],
 		range: [
 			theme.tokenNameToValue('palette.blue.300'),
 			theme.tokenNameToValue('palette.blue.700'),

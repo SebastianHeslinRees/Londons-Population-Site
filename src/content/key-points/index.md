@@ -28,10 +28,6 @@ London's {figures.year} population was {formatNumber(figures.population.now)}. T
  byline="GLA City Intelligence"
  />
 
-## Comparison to previous MYE data
-
-[Do we want a comparsion key card and chart here]
-
 <Chart
  title="Population by Sex, London"
  subtitle="Mid-year population estimates (persons)"
