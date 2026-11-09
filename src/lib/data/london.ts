@@ -1,32 +1,47 @@
 import type { ChartDataRow } from '@ldn-viz/charts';
 
-import componentsOfChange from '$lib/data/ComponentsOfChangeChartData.json' with { type: 'json' };
+import londonAgeGroups from '$lib/data/londonAgeGroups.json' with { type: 'json' };
 import londonAgeSexPyramid from '$lib/data/londonAgeSexPyramidData.json' with { type: 'json' };
+import londonAgeStructure from '$lib/data/londonAgeStructure.json' with { type: 'json' };
+import londonComponentsOfChange from '$lib/data/londonComponentsOfChange.json' with { type: 'json' };
 import londonPopulationBySex from '$lib/data/londonPopulationBySex.json' with { type: 'json' };
-import population from '$lib/data/projectedPopulation2ChartData.json' with { type: 'json' };
+import londonPopulationTotal from '$lib/data/londonPopulationTotal.json' with { type: 'json' };
 
 type SourceRow = { dataset: string; xd: string | number; b: string; y: number };
 
-/** Latest mid-year estimate; later years in the source files are projections and are not used. */
-export const LATEST_YEAR = 2024;
+/** All datasets are derived from the London sex-age-component totals CSV, up to this year. */
+export const LATEST_YEAR = 2025;
 
-const populationRows = population as SourceRow[];
-const componentRows = componentsOfChange as SourceRow[];
+const populationTotalRows = londonPopulationTotal as SourceRow[];
+const ageGroupRows = londonAgeGroups as SourceRow[];
+const componentRows = londonComponentsOfChange as SourceRow[];
 const ageSexPyramidRows = londonAgeSexPyramid as SourceRow[];
 
 const yearOf = (xd: string | number) => Number(String(xd).slice(0, 4));
 
-// Estimates are identical across projection variants, so 'Central' is used for all of them.
-const estimates = (rows: SourceRow[], dataset: string, label: string): ChartDataRow[] =>
+const series = (rows: SourceRow[], dataset: string, label: string): ChartDataRow[] =>
 	rows
-		.filter((r) => r.dataset === dataset && r.b === 'Central' && yearOf(r.xd) <= LATEST_YEAR)
+		.filter((r) => r.dataset === dataset && yearOf(r.xd) <= LATEST_YEAR)
 		.map((r) => ({ dataset, xd: r.xd, b: label, y: r.y }));
 
 const relabel = (rows: ChartDataRow[], dataset: string): ChartDataRow[] =>
 	rows.map((r) => ({ ...r, dataset }));
 
+/** Year-over-year change in total population, derived from the population totals series. */
+const annualChangeRows: SourceRow[] = populationTotalRows
+	.filter((r) => r.dataset === 'london_population_total')
+	.slice()
+	.sort((a, b) => yearOf(a.xd) - yearOf(b.xd))
+	.map((r, index, arr) =>
+		index === 0
+			? null
+			: { dataset: 'london_annual_change', xd: r.xd, b: 'London', y: r.y - arr[index - 1].y }
+	)
+	.filter((r): r is SourceRow => r !== null);
+
 export const datasets: Record<string, ChartDataRow[]> = {
-	london_population: estimates(populationRows, 'proj2_total_population', 'London'),
+	london_population: series(populationTotalRows, 'london_population_total', 'London'),
+	london_annual_change: series(annualChangeRows, 'london_annual_change', 'London'),
 	london_population_by_sex: relabel(
 		(londonPopulationBySex as ChartDataRow[]).map((row) => ({
 			...row,
@@ -34,31 +49,33 @@ export const datasets: Record<string, ChartDataRow[]> = {
 		})),
 		'london_population_by_sex'
 	),
-	london_annual_change: estimates(populationRows, 'proj2_annual_population_change', 'London'),
 	london_births_deaths: relabel(
 		[
-			...estimates(componentRows, 'births', 'Births'),
-			...estimates(componentRows, 'deaths', 'Deaths')
+			...series(componentRows, 'london_births', 'Births'),
+			...series(componentRows, 'london_deaths', 'Deaths')
 		],
 		'london_births_deaths'
 	),
-	london_natural_change: estimates(componentRows, 'natural_change', 'London'),
+	london_natural_change: series(componentRows, 'london_natural_change', 'London'),
 	london_net_migration: relabel(
 		[
-			...estimates(componentRows, 'international_net_migration', 'International'),
-			...estimates(componentRows, 'domestic_net_migration', 'Domestic'),
-			...estimates(componentRows, 'total_net_migration', 'Total')
+			...series(componentRows, 'london_international_net_migration', 'International'),
+			...series(componentRows, 'london_domestic_net_migration', 'Domestic'),
+			...series(componentRows, 'london_total_net_migration', 'Total')
 		],
 		'london_net_migration'
 	),
-	london_age_structure: populationRows
-		.filter((r) => r.dataset === 'proj2_age_structure_median_age' && r.b === '2024 structure')
-		.map((r) => ({ dataset: 'london_age_structure', xd: r.xd, b: String(LATEST_YEAR), y: r.y })),
+	london_age_structure: (londonAgeStructure as SourceRow[]).map((r) => ({
+		dataset: 'london_age_structure',
+		xd: r.xd,
+		b: String(LATEST_YEAR),
+		y: r.y
+	})),
 	london_age_groups: relabel(
 		[
-			...estimates(populationRows, 'proj2_primary_school_age_children', 'Primary school'),
-			...estimates(populationRows, 'proj2_secondary_school_age_children', 'Secondary school'),
-			...estimates(populationRows, 'proj2_population_age_65_plus', '65 and over')
+			...series(ageGroupRows, 'london_primary_school_age', 'Primary school'),
+			...series(ageGroupRows, 'london_secondary_school_age', 'Secondary school'),
+			...series(ageGroupRows, 'london_population_age_65_plus', '65 and over')
 		],
 		'london_age_groups'
 	)
@@ -68,18 +85,25 @@ export type AgeSexPyramidRow = { year: number; ageBand: string; sex: 'Female' | 
 
 /** Population by 5-year age band and sex, one row per year/age band/sex (2001-{LATEST_YEAR}). */
 export const ageSexPyramidData: AgeSexPyramidRow[] = ageSexPyramidRows.map((r) => {
-	const [yearLabel, sex] = r.b.split('|');
-	return { year: Number(yearLabel), ageBand: String(r.xd), sex: sex as 'Female' | 'Male', value: r.y };
+	const [yearLabel, rawSex] = r.b.split('|');
+	const sex =
+		rawSex === 'F' || rawSex === 'Female'
+			? 'Female'
+			: rawSex === 'M' || rawSex === 'Male'
+				? 'Male'
+				: (rawSex as 'Female' | 'Male');
+	return { year: Number(yearLabel), ageBand: String(r.xd), sex, value: r.y };
 });
 
 export const ageSexPyramidYears: number[] = [...new Set(ageSexPyramidData.map((r) => r.year))].sort(
 	(a, b) => a - b
 );
 
+/** Earliest year available in the source CSV; used in place of the old 2001 baseline. */
+export const EARLIEST_YEAR = 2011;
+
 const at = (rows: SourceRow[], dataset: string, year: number) => {
-	const row = rows.find(
-		(r) => r.dataset === dataset && r.b === 'Central' && yearOf(r.xd) === year
-	);
+	const row = rows.find((r) => r.dataset === dataset && yearOf(r.xd) === year);
 	if (!row) throw new Error(`No ${dataset} value for ${year}`);
 	return row.y;
 };
@@ -90,9 +114,7 @@ const pair = (rows: SourceRow[], dataset: string) => ({
 });
 
 const extreme = (rows: SourceRow[], dataset: string, pick: 'min' | 'max') => {
-	const history = rows.filter(
-		(r) => r.dataset === dataset && r.b === 'Central' && yearOf(r.xd) <= LATEST_YEAR
-	);
+	const history = rows.filter((r) => r.dataset === dataset && yearOf(r.xd) <= LATEST_YEAR);
 	const best = history.reduce((a, b) => ((pick === 'min' ? b.y < a.y : b.y > a.y) ? b : a));
 	return { year: yearOf(best.xd), value: best.y };
 };
@@ -111,42 +133,42 @@ const medianAge = (() => {
 	return NaN;
 })();
 
-const olderNow = at(populationRows, 'proj2_population_age_65_plus', LATEST_YEAR);
-const olderThen = at(populationRows, 'proj2_population_age_65_plus', 2001);
-const populationNow = at(populationRows, 'proj2_total_population', LATEST_YEAR);
-const populationThen = at(populationRows, 'proj2_total_population', 2001);
+const olderNow = at(ageGroupRows, 'london_population_age_65_plus', LATEST_YEAR);
+const olderThen = at(ageGroupRows, 'london_population_age_65_plus', EARLIEST_YEAR);
+const populationNow = at(populationTotalRows, 'london_population_total', LATEST_YEAR);
+const populationThen = at(populationTotalRows, 'london_population_total', EARLIEST_YEAR);
 
 export const figures = {
 	year: LATEST_YEAR,
-	population: pair(populationRows, 'proj2_total_population'),
-	populationChange: pair(populationRows, 'proj2_annual_population_change'),
-	population2001: populationThen,
-	population2019: at(populationRows, 'proj2_total_population', 2019),
-	population2021: at(populationRows, 'proj2_total_population', 2021),
-	change2020: at(populationRows, 'proj2_annual_population_change', 2020),
-	change2021: at(populationRows, 'proj2_annual_population_change', 2021),
-	change2022: at(populationRows, 'proj2_annual_population_change', 2022),
-	births: pair(componentRows, 'births'),
-	deaths: pair(componentRows, 'deaths'),
-	naturalChange: pair(componentRows, 'natural_change'),
-	domestic: pair(componentRows, 'domestic_net_migration'),
-	international: pair(componentRows, 'international_net_migration'),
-	totalMigration: pair(componentRows, 'total_net_migration'),
-	international2021: at(componentRows, 'international_net_migration', 2021),
-	international2022: at(componentRows, 'international_net_migration', 2022),
-	peakDomesticOutflow: extreme(componentRows, 'domestic_net_migration', 'min'),
-	peakInternational: extreme(componentRows, 'international_net_migration', 'max'),
+	population: pair(populationTotalRows, 'london_population_total'),
+	populationChange: pair(annualChangeRows, 'london_annual_change'),
+	populationEarliestYear: populationThen,
+	population2019: at(populationTotalRows, 'london_population_total', 2019),
+	population2021: at(populationTotalRows, 'london_population_total', 2021),
+	change2020: at(annualChangeRows, 'london_annual_change', 2020),
+	change2021: at(annualChangeRows, 'london_annual_change', 2021),
+	change2022: at(annualChangeRows, 'london_annual_change', 2022),
+	births: pair(componentRows, 'london_births'),
+	deaths: pair(componentRows, 'london_deaths'),
+	naturalChange: pair(componentRows, 'london_natural_change'),
+	domestic: pair(componentRows, 'london_domestic_net_migration'),
+	international: pair(componentRows, 'london_international_net_migration'),
+	totalMigration: pair(componentRows, 'london_total_net_migration'),
+	international2021: at(componentRows, 'london_international_net_migration', 2021),
+	international2022: at(componentRows, 'london_international_net_migration', 2022),
+	peakDomesticOutflow: extreme(componentRows, 'london_domestic_net_migration', 'min'),
+	peakInternational: extreme(componentRows, 'london_international_net_migration', 'max'),
 	primarySchoolAge: {
-		...pair(populationRows, 'proj2_primary_school_age_children'),
-		peak: extreme(populationRows, 'proj2_primary_school_age_children', 'max')
+		...pair(ageGroupRows, 'london_primary_school_age'),
+		peak: extreme(ageGroupRows, 'london_primary_school_age', 'max')
 	},
 	secondarySchoolAge: {
-		...pair(populationRows, 'proj2_secondary_school_age_children'),
-		peak: extreme(populationRows, 'proj2_secondary_school_age_children', 'max')
+		...pair(ageGroupRows, 'london_secondary_school_age'),
+		peak: extreme(ageGroupRows, 'london_secondary_school_age', 'max')
 	},
 	older: { now: olderNow, then: olderThen },
 	olderShare: olderNow / populationNow,
-	olderShare2001: olderThen / populationThen,
+	olderShareEarliestYear: olderThen / populationThen,
 	under18: totalByAge((age) => age < 18),
 	aged18to64: totalByAge((age) => age >= 18 && age < 65),
 	dependencyRatio: (totalByAge((age) => age < 18) + olderNow) / totalByAge((age) => age >= 18 && age < 65),

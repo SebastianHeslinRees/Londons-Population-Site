@@ -1,0 +1,92 @@
+[
+ {
+  "dataset": "london_population_total",
+  "xd": "2011-01-01",
+  "b": "London",
+  "y": 8204407.0
+ },
+ {
+  "dataset": "london_population_total",
+  "xd": "2012-01-01",
+  "b": "London",
+  "y": 8320767.0
+ },
+ {
+  "dataset": "london_population_total",
+  "xd": "2013-01-01",
+  "b": "London",
+  "y": 8438987.0
+ },
+ {
+  "dataset": "london_population_total",
+  "xd": "2014-01-01",
+  "b": "London",
+  "y": 8547192.0
+ },
+ {
+  "dataset": "london_population_total",
+  "xd": "2015-01-01",
+  "b": "London",
+  "y": 8659545.0
+ },
+ {
+  "dataset": "london_population_total",
+  "xd": "2016-01-01",
+  "b": "London",
+  "y": 8743651.0
+ },
+ {
+  "dataset": "london_population_total",
+  "xd": "2017-01-01",
+  "b": "London",
+  "y": 8776229.0
+ },
+ {
+  "dataset": "london_population_total",
+  "xd": "2018-01-01",
+  "b": "London",
+  "y": 8833335.0
+ },
+ {
+  "dataset": "london_population_total",
+  "xd": "2019-01-01",
+  "b": "London",
+  "y": 8889743.0
+ },
+ {
+  "dataset": "london_population_total",
+  "xd": "2020-01-01",
+  "b": "London",
+  "y": 8867008.0
+ },
+ {
+  "dataset": "london_population_total",
+  "xd": "2021-01-01",
+  "b": "London",
+  "y": 8804769.0
+ },
+ {
+  "dataset": "london_population_total",
+  "xd": "2022-01-01",
+  "b": "London",
+  "y": 8917360.0
+ },
+ {
+  "dataset": "london_population_total",
+  "xd": "2023-01-01",
+  "b": "London",
+  "y": 9066906.0
+ },
+ {
+  "dataset": "london_population_total",
+  "xd": "2024-01-01",
+  "b": "London",
+  "y": 9149646.0
+ },
+ {
+  "dataset": "london_population_total",
+  "xd": "2025-01-01",
+  "b": "London",
+  "y": 9122909.0
+ }
+]

@@ -19,7 +19,7 @@ The first chart below shows London's population by single year of age in mid-{ye
 
 - {formatRounded(figures.under18)} people were aged under 18
 - {formatRounded(figures.aged18to64)} people were aged 18 to 64
-- {formatRounded(older.now)} people were aged 65 and over, {formatPercent(figures.olderShare)} of the population (compared with {formatPercent(figures.olderShare2001)} in 2001)
+- {formatRounded(older.now)} people were aged 65 and over, {formatPercent(figures.olderShare)} of the population (compared with {formatPercent(figures.olderShareEarliestYear)} in 2011)
 
 <Chart
  title="Age structure, London"
@@ -28,7 +28,7 @@ The first chart below shows London's population by single year of age in mid-{ye
  byline="GLA City Intelligence"
  />
 
-The population pyramid below shows the same population broken down into 5-year age bands and split by sex. Use the slider to see how the structure has changed since 2001.
+The population pyramid below shows the same population broken down into 5-year age bands and split by sex. Use the slider to see how the structure has changed since 2011.
 
 <PopulationPyramid
  title="Age structure, London"
@@ -37,7 +37,7 @@ The population pyramid below shows the same population broken down into 5-year a
  />
 
 
-The second chart shows how the numbers of primary school age children (5 to 10), secondary school age children (11 to 15) and people aged 65 and over have changed since 2001. The number of primary school age children peaked at {formatRounded(primarySchoolAge.peak.value)} in {primarySchoolAge.peak.year} and the number of secondary school age children peaked at {formatRounded(secondarySchoolAge.peak.value)} in {secondarySchoolAge.peak.year}.
+The second chart shows how the numbers of primary school age children (5 to 10), secondary school age children (11 to 15) and people aged 65 and over have changed since 2011. The number of primary school age children peaked at {formatRounded(primarySchoolAge.peak.value)} in {primarySchoolAge.peak.year} and the number of secondary school age children peaked at {formatRounded(secondarySchoolAge.peak.value)} in {secondarySchoolAge.peak.year}.
 
 <Chart
  title="Population by age group, London"

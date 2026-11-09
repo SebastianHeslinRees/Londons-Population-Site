@@ -10,3 +10,10 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .velite
 .idea/
+
+# Local CSV data files
+*.csv
+
+# Optional: ignore generated local data folders if present
+/Downloads/
+

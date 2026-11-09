@@ -1,0 +1,272 @@
+[
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2011-01-01",
+  "b": "London",
+  "y": 577454.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2011-01-01",
+  "b": "London",
+  "y": 458328.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2011-01-01",
+  "b": "London",
+  "y": 910130.0
+ },
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2012-01-01",
+  "b": "London",
+  "y": 597981.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2012-01-01",
+  "b": "London",
+  "y": 453383.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2012-01-01",
+  "b": "London",
+  "y": 933153.0
+ },
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2013-01-01",
+  "b": "London",
+  "y": 622752.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2013-01-01",
+  "b": "London",
+  "y": 448409.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2013-01-01",
+  "b": "London",
+  "y": 950602.0
+ },
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2014-01-01",
+  "b": "London",
+  "y": 641395.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2014-01-01",
+  "b": "London",
+  "y": 450046.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2014-01-01",
+  "b": "London",
+  "y": 966311.0
+ },
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2015-01-01",
+  "b": "London",
+  "y": 657334.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2015-01-01",
+  "b": "London",
+  "y": 456470.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2015-01-01",
+  "b": "London",
+  "y": 977005.0
+ },
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2016-01-01",
+  "b": "London",
+  "y": 668340.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2016-01-01",
+  "b": "London",
+  "y": 467682.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2016-01-01",
+  "b": "London",
+  "y": 988898.0
+ },
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2017-01-01",
+  "b": "London",
+  "y": 674690.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2017-01-01",
+  "b": "London",
+  "y": 481482.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2017-01-01",
+  "b": "London",
+  "y": 1000640.0
+ },
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2018-01-01",
+  "b": "London",
+  "y": 672521.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2018-01-01",
+  "b": "London",
+  "y": 498377.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2018-01-01",
+  "b": "London",
+  "y": 1013298.0
+ },
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2019-01-01",
+  "b": "London",
+  "y": 663266.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2019-01-01",
+  "b": "London",
+  "y": 513074.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2019-01-01",
+  "b": "London",
+  "y": 1028707.0
+ },
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2020-01-01",
+  "b": "London",
+  "y": 652100.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2020-01-01",
+  "b": "London",
+  "y": 521479.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2020-01-01",
+  "b": "London",
+  "y": 1037618.0
+ },
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2021-01-01",
+  "b": "London",
+  "y": 637952.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2021-01-01",
+  "b": "London",
+  "y": 527713.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2021-01-01",
+  "b": "London",
+  "y": 1050904.0
+ },
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2022-01-01",
+  "b": "London",
+  "y": 629790.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2022-01-01",
+  "b": "London",
+  "y": 532447.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2022-01-01",
+  "b": "London",
+  "y": 1072432.0
+ },
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2023-01-01",
+  "b": "London",
+  "y": 621854.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2023-01-01",
+  "b": "London",
+  "y": 533074.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2023-01-01",
+  "b": "London",
+  "y": 1094303.0
+ },
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2024-01-01",
+  "b": "London",
+  "y": 614815.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2024-01-01",
+  "b": "London",
+  "y": 526612.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2024-01-01",
+  "b": "London",
+  "y": 1121764.0
+ },
+ {
+  "dataset": "london_primary_school_age",
+  "xd": "2025-01-01",
+  "b": "London",
+  "y": 600962.0
+ },
+ {
+  "dataset": "london_secondary_school_age",
+  "xd": "2025-01-01",
+  "b": "London",
+  "y": 513805.0
+ },
+ {
+  "dataset": "london_population_age_65_plus",
+  "xd": "2025-01-01",
+  "b": "London",
+  "y": 1152518.0
+ }
+]

@@ -1,0 +1,506 @@
+[
+ {
+  "dataset": "london_births",
+  "xd": "2012-01-01",
+  "b": "London",
+  "y": 134037.0
+ },
+ {
+  "dataset": "london_deaths",
+  "xd": "2012-01-01",
+  "b": "London",
+  "y": 47970.0
+ },
+ {
+  "dataset": "london_natural_change",
+  "xd": "2012-01-01",
+  "b": "London",
+  "y": 86067.0
+ },
+ {
+  "dataset": "london_domestic_net_migration",
+  "xd": "2012-01-01",
+  "b": "London",
+  "y": -50444.0
+ },
+ {
+  "dataset": "london_international_net_migration",
+  "xd": "2012-01-01",
+  "b": "London",
+  "y": 76719.0
+ },
+ {
+  "dataset": "london_total_net_migration",
+  "xd": "2012-01-01",
+  "b": "London",
+  "y": 26275.0
+ },
+ {
+  "dataset": "london_births",
+  "xd": "2013-01-01",
+  "b": "London",
+  "y": 131011.0
+ },
+ {
+  "dataset": "london_deaths",
+  "xd": "2013-01-01",
+  "b": "London",
+  "y": 48937.0
+ },
+ {
+  "dataset": "london_natural_change",
+  "xd": "2013-01-01",
+  "b": "London",
+  "y": 82074.0
+ },
+ {
+  "dataset": "london_domestic_net_migration",
+  "xd": "2013-01-01",
+  "b": "London",
+  "y": -53037.0
+ },
+ {
+  "dataset": "london_international_net_migration",
+  "xd": "2013-01-01",
+  "b": "London",
+  "y": 85424.0
+ },
+ {
+  "dataset": "london_total_net_migration",
+  "xd": "2013-01-01",
+  "b": "London",
+  "y": 32387.0
+ },
+ {
+  "dataset": "london_births",
+  "xd": "2014-01-01",
+  "b": "London",
+  "y": 127807.0
+ },
+ {
+  "dataset": "london_deaths",
+  "xd": "2014-01-01",
+  "b": "London",
+  "y": 46271.0
+ },
+ {
+  "dataset": "london_natural_change",
+  "xd": "2014-01-01",
+  "b": "London",
+  "y": 81536.0
+ },
+ {
+  "dataset": "london_domestic_net_migration",
+  "xd": "2014-01-01",
+  "b": "London",
+  "y": -78078.0
+ },
+ {
+  "dataset": "london_international_net_migration",
+  "xd": "2014-01-01",
+  "b": "London",
+  "y": 101285.0
+ },
+ {
+  "dataset": "london_total_net_migration",
+  "xd": "2014-01-01",
+  "b": "London",
+  "y": 23207.0
+ },
+ {
+  "dataset": "london_births",
+  "xd": "2015-01-01",
+  "b": "London",
+  "y": 128520.0
+ },
+ {
+  "dataset": "london_deaths",
+  "xd": "2015-01-01",
+  "b": "London",
+  "y": 50782.0
+ },
+ {
+  "dataset": "london_natural_change",
+  "xd": "2015-01-01",
+  "b": "London",
+  "y": 77738.0
+ },
+ {
+  "dataset": "london_domestic_net_migration",
+  "xd": "2015-01-01",
+  "b": "London",
+  "y": -78818.0
+ },
+ {
+  "dataset": "london_international_net_migration",
+  "xd": "2015-01-01",
+  "b": "London",
+  "y": 112114.0
+ },
+ {
+  "dataset": "london_total_net_migration",
+  "xd": "2015-01-01",
+  "b": "London",
+  "y": 33296.0
+ },
+ {
+  "dataset": "london_births",
+  "xd": "2016-01-01",
+  "b": "London",
+  "y": 129847.0
+ },
+ {
+  "dataset": "london_deaths",
+  "xd": "2016-01-01",
+  "b": "London",
+  "y": 49057.0
+ },
+ {
+  "dataset": "london_natural_change",
+  "xd": "2016-01-01",
+  "b": "London",
+  "y": 80790.0
+ },
+ {
+  "dataset": "london_domestic_net_migration",
+  "xd": "2016-01-01",
+  "b": "London",
+  "y": -100519.0
+ },
+ {
+  "dataset": "london_international_net_migration",
+  "xd": "2016-01-01",
+  "b": "London",
+  "y": 103268.0
+ },
+ {
+  "dataset": "london_total_net_migration",
+  "xd": "2016-01-01",
+  "b": "London",
+  "y": 2749.0
+ },
+ {
+  "dataset": "london_births",
+  "xd": "2017-01-01",
+  "b": "London",
+  "y": 127359.0
+ },
+ {
+  "dataset": "london_deaths",
+  "xd": "2017-01-01",
+  "b": "London",
+  "y": 49638.0
+ },
+ {
+  "dataset": "london_natural_change",
+  "xd": "2017-01-01",
+  "b": "London",
+  "y": 77721.0
+ },
+ {
+  "dataset": "london_domestic_net_migration",
+  "xd": "2017-01-01",
+  "b": "London",
+  "y": -119683.0
+ },
+ {
+  "dataset": "london_international_net_migration",
+  "xd": "2017-01-01",
+  "b": "London",
+  "y": 72717.0
+ },
+ {
+  "dataset": "london_total_net_migration",
+  "xd": "2017-01-01",
+  "b": "London",
+  "y": -46966.0
+ },
+ {
+  "dataset": "london_births",
+  "xd": "2018-01-01",
+  "b": "London",
+  "y": 123594.0
+ },
+ {
+  "dataset": "london_deaths",
+  "xd": "2018-01-01",
+  "b": "London",
+  "y": 50777.0
+ },
+ {
+  "dataset": "london_natural_change",
+  "xd": "2018-01-01",
+  "b": "London",
+  "y": 72817.0
+ },
+ {
+  "dataset": "london_domestic_net_migration",
+  "xd": "2018-01-01",
+  "b": "London",
+  "y": -110344.0
+ },
+ {
+  "dataset": "london_international_net_migration",
+  "xd": "2018-01-01",
+  "b": "London",
+  "y": 94323.0
+ },
+ {
+  "dataset": "london_total_net_migration",
+  "xd": "2018-01-01",
+  "b": "London",
+  "y": -16021.0
+ },
+ {
+  "dataset": "london_births",
+  "xd": "2019-01-01",
+  "b": "London",
+  "y": 119086.0
+ },
+ {
+  "dataset": "london_deaths",
+  "xd": "2019-01-01",
+  "b": "London",
+  "y": 48341.0
+ },
+ {
+  "dataset": "london_natural_change",
+  "xd": "2019-01-01",
+  "b": "London",
+  "y": 70745.0
+ },
+ {
+  "dataset": "london_domestic_net_migration",
+  "xd": "2019-01-01",
+  "b": "London",
+  "y": -99371.0
+ },
+ {
+  "dataset": "london_international_net_migration",
+  "xd": "2019-01-01",
+  "b": "London",
+  "y": 87647.0
+ },
+ {
+  "dataset": "london_total_net_migration",
+  "xd": "2019-01-01",
+  "b": "London",
+  "y": -11724.0
+ },
+ {
+  "dataset": "london_births",
+  "xd": "2020-01-01",
+  "b": "London",
+  "y": 115925.0
+ },
+ {
+  "dataset": "london_deaths",
+  "xd": "2020-01-01",
+  "b": "London",
+  "y": 59192.0
+ },
+ {
+  "dataset": "london_natural_change",
+  "xd": "2020-01-01",
+  "b": "London",
+  "y": 56733.0
+ },
+ {
+  "dataset": "london_domestic_net_migration",
+  "xd": "2020-01-01",
+  "b": "London",
+  "y": -113982.0
+ },
+ {
+  "dataset": "london_international_net_migration",
+  "xd": "2020-01-01",
+  "b": "London",
+  "y": 38340.0
+ },
+ {
+  "dataset": "london_total_net_migration",
+  "xd": "2020-01-01",
+  "b": "London",
+  "y": -75642.0
+ },
+ {
+  "dataset": "london_births",
+  "xd": "2021-01-01",
+  "b": "London",
+  "y": 109713.0
+ },
+ {
+  "dataset": "london_deaths",
+  "xd": "2021-01-01",
+  "b": "London",
+  "y": 55640.0
+ },
+ {
+  "dataset": "london_natural_change",
+  "xd": "2021-01-01",
+  "b": "London",
+  "y": 54073.0
+ },
+ {
+  "dataset": "london_domestic_net_migration",
+  "xd": "2021-01-01",
+  "b": "London",
+  "y": -186005.0
+ },
+ {
+  "dataset": "london_international_net_migration",
+  "xd": "2021-01-01",
+  "b": "London",
+  "y": 78453.0
+ },
+ {
+  "dataset": "london_total_net_migration",
+  "xd": "2021-01-01",
+  "b": "London",
+  "y": -107552.0
+ },
+ {
+  "dataset": "london_births",
+  "xd": "2022-01-01",
+  "b": "London",
+  "y": 109488.0
+ },
+ {
+  "dataset": "london_deaths",
+  "xd": "2022-01-01",
+  "b": "London",
+  "y": 52007.0
+ },
+ {
+  "dataset": "london_natural_change",
+  "xd": "2022-01-01",
+  "b": "London",
+  "y": 57481.0
+ },
+ {
+  "dataset": "london_domestic_net_migration",
+  "xd": "2022-01-01",
+  "b": "London",
+  "y": -127125.0
+ },
+ {
+  "dataset": "london_international_net_migration",
+  "xd": "2022-01-01",
+  "b": "London",
+  "y": 182661.0
+ },
+ {
+  "dataset": "london_total_net_migration",
+  "xd": "2022-01-01",
+  "b": "London",
+  "y": 55536.0
+ },
+ {
+  "dataset": "london_births",
+  "xd": "2023-01-01",
+  "b": "London",
+  "y": 105081.0
+ },
+ {
+  "dataset": "london_deaths",
+  "xd": "2023-01-01",
+  "b": "London",
+  "y": 53513.0
+ },
+ {
+  "dataset": "london_natural_change",
+  "xd": "2023-01-01",
+  "b": "London",
+  "y": 51568.0
+ },
+ {
+  "dataset": "london_domestic_net_migration",
+  "xd": "2023-01-01",
+  "b": "London",
+  "y": -137127.0
+ },
+ {
+  "dataset": "london_international_net_migration",
+  "xd": "2023-01-01",
+  "b": "London",
+  "y": 235320.0
+ },
+ {
+  "dataset": "london_total_net_migration",
+  "xd": "2023-01-01",
+  "b": "London",
+  "y": 98193.0
+ },
+ {
+  "dataset": "london_births",
+  "xd": "2024-01-01",
+  "b": "London",
+  "y": 105725.0
+ },
+ {
+  "dataset": "london_deaths",
+  "xd": "2024-01-01",
+  "b": "London",
+  "y": 50578.0
+ },
+ {
+  "dataset": "london_natural_change",
+  "xd": "2024-01-01",
+  "b": "London",
+  "y": 55147.0
+ },
+ {
+  "dataset": "london_domestic_net_migration",
+  "xd": "2024-01-01",
+  "b": "London",
+  "y": -128182.0
+ },
+ {
+  "dataset": "london_international_net_migration",
+  "xd": "2024-01-01",
+  "b": "London",
+  "y": 156048.0
+ },
+ {
+  "dataset": "london_total_net_migration",
+  "xd": "2024-01-01",
+  "b": "London",
+  "y": 27866.0
+ },
+ {
+  "dataset": "london_births",
+  "xd": "2025-01-01",
+  "b": "London",
+  "y": 104610.0
+ },
+ {
+  "dataset": "london_deaths",
+  "xd": "2025-01-01",
+  "b": "London",
+  "y": 50399.0
+ },
+ {
+  "dataset": "london_natural_change",
+  "xd": "2025-01-01",
+  "b": "London",
+  "y": 54211.0
+ },
+ {
+  "dataset": "london_domestic_net_migration",
+  "xd": "2025-01-01",
+  "b": "London",
+  "y": -131961.0
+ },
+ {
+  "dataset": "london_international_net_migration",
+  "xd": "2025-01-01",
+  "b": "London",
+  "y": 51839.0
+ },
+ {
+  "dataset": "london_total_net_migration",
+  "xd": "2025-01-01",
+  "b": "London",
+  "y": -80122.0
+ }
+]

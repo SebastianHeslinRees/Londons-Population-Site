@@ -1,290 +1,182 @@
 [
  {
   "dataset": "london_population_by_sex",
-  "xd": "2001-01-01",
-  "b": "Female",
-  "y": 3725283
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2001-01-01",
-  "b": "Male",
-  "y": 3597120.0
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2002-01-01",
-  "b": "Female",
-  "y": 3744180
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2002-01-01",
-  "b": "Male",
-  "y": 3631780.0
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2003-01-01",
-  "b": "Female",
-  "y": 3750297
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2003-01-01",
-  "b": "Male",
-  "y": 3639300.0
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2004-01-01",
-  "b": "Female",
-  "y": 3769712
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2004-01-01",
-  "b": "Male",
-  "y": 3658107.0
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2005-01-01",
-  "b": "Female",
-  "y": 3814631
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2005-01-01",
-  "b": "Male",
-  "y": 3695014.0
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2006-01-01",
-  "b": "Female",
-  "y": 3852530
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2006-01-01",
-  "b": "Male",
-  "y": 3731940.0
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2007-01-01",
-  "b": "Female",
-  "y": 3898076
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2007-01-01",
-  "b": "Male",
-  "y": 3780777.0
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2008-01-01",
-  "b": "Female",
-  "y": 3955315
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2008-01-01",
-  "b": "Male",
-  "y": 3840859.0
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2009-01-01",
-  "b": "Female",
-  "y": 4021459
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2009-01-01",
-  "b": "Male",
-  "y": 3906900.0
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2010-01-01",
-  "b": "Female",
-  "y": 4079722
- },
- {
-  "dataset": "london_population_by_sex",
-  "xd": "2010-01-01",
-  "b": "Male",
-  "y": 3970600.0
- },
- {
-  "dataset": "london_population_by_sex",
   "xd": "2011-01-01",
   "b": "Female",
-  "y": 4146530
+  "y": 4150445
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2011-01-01",
   "b": "Male",
-  "y": 4050166.0
+  "y": 4053962
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2012-01-01",
   "b": "Female",
-  "y": 4216841
+  "y": 4220777
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2012-01-01",
   "b": "Male",
-  "y": 4093298.0
+  "y": 4099990
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2013-01-01",
   "b": "Female",
-  "y": 4289439
+  "y": 4293448
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2013-01-01",
   "b": "Male",
-  "y": 4135769.0
+  "y": 4145539
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2014-01-01",
   "b": "Female",
-  "y": 4348153
+  "y": 4352753
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2014-01-01",
   "b": "Male",
-  "y": 4182155.0
+  "y": 4194439
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2015-01-01",
   "b": "Female",
-  "y": 4408635
+  "y": 4413888
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2015-01-01",
   "b": "Male",
-  "y": 4232395.0
+  "y": 4245657
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2016-01-01",
   "b": "Female",
-  "y": 4463352
+  "y": 4469474
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2016-01-01",
   "b": "Male",
-  "y": 4259133.0
+  "y": 4274177
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2017-01-01",
   "b": "Female",
-  "y": 4486563
+  "y": 4493900
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2017-01-01",
   "b": "Male",
-  "y": 4268134.0
+  "y": 4282329
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2018-01-01",
   "b": "Female",
-  "y": 4522963
+  "y": 4530386
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2018-01-01",
   "b": "Male",
-  "y": 4289503.0
+  "y": 4302949
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2019-01-01",
   "b": "Female",
-  "y": 4555494
+  "y": 4563190
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2019-01-01",
   "b": "Male",
-  "y": 4313470.0
+  "y": 4326553
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2020-01-01",
   "b": "Female",
-  "y": 4552750
+  "y": 4559625
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2020-01-01",
   "b": "Male",
-  "y": 4295472.0
+  "y": 4307383
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2021-01-01",
   "b": "Female",
-  "y": 4535014
+  "y": 4536115
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2021-01-01",
   "b": "Male",
-  "y": 4267597.0
+  "y": 4268654
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2022-01-01",
   "b": "Female",
-  "y": 4600789
+  "y": 4594650
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2022-01-01",
   "b": "Male",
-  "y": 4314358.0
+  "y": 4322710
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2023-01-01",
   "b": "Female",
-  "y": 4671105
+  "y": 4666366
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2023-01-01",
   "b": "Male",
-  "y": 4387046.0
+  "y": 4400540
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2024-01-01",
   "b": "Female",
-  "y": 4702017
+  "y": 4702500
  },
  {
   "dataset": "london_population_by_sex",
   "xd": "2024-01-01",
   "b": "Male",
-  "y": 4430072.0
+  "y": 4447146
+ },
+ {
+  "dataset": "london_population_by_sex",
+  "xd": "2025-01-01",
+  "b": "Female",
+  "y": 4682377
+ },
+ {
+  "dataset": "london_population_by_sex",
+  "xd": "2025-01-01",
+  "b": "Male",
+  "y": 4440532
  }
 ]

@@ -1,62 +1,75 @@
-"""Build src/lib/data/londonAgeSexPyramidData.json (London population by 5-year age band and sex, 2001-2024).
+"""Build src/lib/data/londonAgeSexPyramidData.json from the canonical London sex-age totals CSV.
 
-Reads the central-variant region population parquet files (single year of age, by sex)
-and aggregates into 5-year age bands for each mid-year estimate up to LATEST_YEAR.
-Later years in the source are projections and are not included.
+The dashboard's age pyramid is derived exclusively from the London totals CSV supplied at
+/Users/user1/Downloads/london_sex_age_totals.csv.
 
-Usage: python3 scripts/build_london_age_sex_pyramid.py
+Usage: python3 scripts/build_london_age_sex_pyramid.py /path/to/london_sex_age_totals.csv
 """
 
 import json
+import sys
 from pathlib import Path
 
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parent.parent
-SOURCE_ROOT = Path('/Users/user1/Downloads/trend_core_outputs_parquet_24august-2/variant=central/geography=region/component=population')
-OUT = ROOT / 'src/lib/data/londonAgeSexPyramidData.json'
-LONDON_GSS_CODE = 'E12000007'
-LATEST_YEAR = 2024
-YEARS = range(2001, LATEST_YEAR + 1)
-
+OUT = ROOT / "src/lib/data/londonAgeSexPyramidData.json"
+DEFAULT_INPUT = Path("/Users/user1/Downloads/london_sex_age_totals.csv")
+YEARS = range(2011, 2026)
 AGE_BAND_WIDTH = 5
-MAX_AGE_BAND_START = 90  # bands: 0-4, 5-9, ..., 85-89, 90+
+MAX_AGE_BAND_START = 90
 
 
-def age_band(age: float) -> str:
-    age = int(age)
+def age_band(age: int) -> str:
     if age >= MAX_AGE_BAND_START:
-        return f'{MAX_AGE_BAND_START}+'
+        return f"{MAX_AGE_BAND_START}+"
     start = (age // AGE_BAND_WIDTH) * AGE_BAND_WIDTH
-    return f'{start}-{start + AGE_BAND_WIDTH - 1}'
+    return f"{start}-{start + AGE_BAND_WIDTH - 1}"
+
+
+def read_source(path: Path) -> pd.DataFrame:
+    if path.suffix.lower() != ".csv":
+        raise ValueError(f"Only the London totals CSV is supported: {path}")
+
+    df = pd.read_csv(path)
+    df["sex"] = df["sex"].astype(str).str.lower()
+    df["age"] = pd.to_numeric(df["age"], errors="coerce").fillna(0).astype(int)
+    return df[df["sex"].isin(["f", "m"])].copy()
 
 
 def main() -> None:
+    source = Path(sys.argv[1]) if len(sys.argv) > 1 else DEFAULT_INPUT
+    if not source.exists():
+        raise FileNotFoundError(f"Missing source CSV: {source}")
+
+    df = read_source(source)
+    df = df[["sex", "age"] + [c for c in df.columns if c.startswith("population_")]].copy()
+
+    df["age"] = pd.to_numeric(df["age"], errors="coerce").fillna(0).astype(int)
+
     rows = []
     for year in YEARS:
-        year_dir = SOURCE_ROOT / f'year={year}'
-        parquet_file = next(year_dir.glob('*.parquet'))
-        frame = pd.read_parquet(parquet_file)
-        london = frame[frame['gss_code'] == LONDON_GSS_CODE].copy()
-        if london.empty:
-            raise RuntimeError(f'No London rows found for {year}')
+        col = f"population_{year}"
+        if col not in df.columns:
+            continue
 
-        london['age_band'] = london['age'].apply(age_band)
-        grouped = london.groupby(['age_band', 'sex'], as_index=False)['value'].sum()
-
-        for row in grouped.itertuples(index=False):
+        work = df[["sex", "age", col]].copy()
+        work["age_band"] = work["age"].apply(age_band)
+        grouped = work.groupby(["age_band", "sex"], as_index=False)[col].sum()
+        for age_band_value, sex_value, value in grouped.itertuples(index=False, name=None):
+            sex_label = {"f": "Female", "m": "Male"}.get(str(sex_value).lower(), str(sex_value).capitalize())
             rows.append(
                 {
-                    'dataset': 'london_age_sex_pyramid',
-                    'xd': row.age_band,
-                    'b': f'{year}|{row.sex.capitalize()}',
-                    'y': float(row.value),
+                    "dataset": "london_age_sex_pyramid",
+                    "xd": age_band_value,
+                    "b": f"{year}|{sex_label}",
+                    "y": float(value),
                 }
             )
 
-    OUT.write_text(json.dumps(rows, indent=1) + '\n')
-    print(f'Wrote {len(rows)} rows to {OUT}')
+    OUT.write_text(json.dumps(rows, indent=1) + "\n")
+    print(f"Wrote {len(rows)} rows to {OUT}")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

@@ -1,0 +1,548 @@
+[
+ {
+  "dataset": "london_age_structure",
+  "xd": 0,
+  "b": "2025",
+  "y": 104288.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 1,
+  "b": "2025",
+  "y": 103759.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 2,
+  "b": "2025",
+  "y": 101893.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 3,
+  "b": "2025",
+  "y": 105481.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 4,
+  "b": "2025",
+  "y": 98128.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 5,
+  "b": "2025",
+  "y": 99066.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 6,
+  "b": "2025",
+  "y": 98793.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 7,
+  "b": "2025",
+  "y": 98974.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 8,
+  "b": "2025",
+  "y": 100919.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 9,
+  "b": "2025",
+  "y": 102788.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 10,
+  "b": "2025",
+  "y": 100422.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 11,
+  "b": "2025",
+  "y": 99595.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 12,
+  "b": "2025",
+  "y": 101599.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 13,
+  "b": "2025",
+  "y": 104144.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 14,
+  "b": "2025",
+  "y": 104369.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 15,
+  "b": "2025",
+  "y": 104098.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 16,
+  "b": "2025",
+  "y": 104619.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 17,
+  "b": "2025",
+  "y": 106357.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 18,
+  "b": "2025",
+  "y": 102850.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 19,
+  "b": "2025",
+  "y": 95037.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 20,
+  "b": "2025",
+  "y": 101172.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 21,
+  "b": "2025",
+  "y": 110958.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 22,
+  "b": "2025",
+  "y": 128458.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 23,
+  "b": "2025",
+  "y": 146286.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 24,
+  "b": "2025",
+  "y": 158859.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 25,
+  "b": "2025",
+  "y": 169967.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 26,
+  "b": "2025",
+  "y": 177574.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 27,
+  "b": "2025",
+  "y": 181381.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 28,
+  "b": "2025",
+  "y": 182004.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 29,
+  "b": "2025",
+  "y": 177295.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 30,
+  "b": "2025",
+  "y": 172167.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 31,
+  "b": "2025",
+  "y": 167375.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 32,
+  "b": "2025",
+  "y": 160964.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 33,
+  "b": "2025",
+  "y": 158310.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 34,
+  "b": "2025",
+  "y": 153955.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 35,
+  "b": "2025",
+  "y": 153447.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 36,
+  "b": "2025",
+  "y": 150050.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 37,
+  "b": "2025",
+  "y": 147766.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 38,
+  "b": "2025",
+  "y": 142198.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 39,
+  "b": "2025",
+  "y": 140459.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 40,
+  "b": "2025",
+  "y": 139189.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 41,
+  "b": "2025",
+  "y": 133937.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 42,
+  "b": "2025",
+  "y": 133555.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 43,
+  "b": "2025",
+  "y": 132834.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 44,
+  "b": "2025",
+  "y": 133388.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 45,
+  "b": "2025",
+  "y": 132825.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 46,
+  "b": "2025",
+  "y": 127318.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 47,
+  "b": "2025",
+  "y": 121092.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 48,
+  "b": "2025",
+  "y": 118023.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 49,
+  "b": "2025",
+  "y": 116768.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 50,
+  "b": "2025",
+  "y": 116515.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 51,
+  "b": "2025",
+  "y": 112741.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 52,
+  "b": "2025",
+  "y": 111988.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 53,
+  "b": "2025",
+  "y": 111045.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 54,
+  "b": "2025",
+  "y": 111733.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 55,
+  "b": "2025",
+  "y": 110800.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 56,
+  "b": "2025",
+  "y": 109316.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 57,
+  "b": "2025",
+  "y": 107961.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 58,
+  "b": "2025",
+  "y": 104500.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 59,
+  "b": "2025",
+  "y": 103449.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 60,
+  "b": "2025",
+  "y": 100268.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 61,
+  "b": "2025",
+  "y": 97597.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 62,
+  "b": "2025",
+  "y": 93588.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 63,
+  "b": "2025",
+  "y": 88272.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 64,
+  "b": "2025",
+  "y": 83865.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 65,
+  "b": "2025",
+  "y": 80817.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 66,
+  "b": "2025",
+  "y": 74847.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 67,
+  "b": "2025",
+  "y": 70275.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 68,
+  "b": "2025",
+  "y": 66324.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 69,
+  "b": "2025",
+  "y": 63095.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 70,
+  "b": "2025",
+  "y": 59196.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 71,
+  "b": "2025",
+  "y": 56063.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 72,
+  "b": "2025",
+  "y": 53349.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 73,
+  "b": "2025",
+  "y": 51098.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 74,
+  "b": "2025",
+  "y": 49739.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 75,
+  "b": "2025",
+  "y": 48066.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 76,
+  "b": "2025",
+  "y": 46880.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 77,
+  "b": "2025",
+  "y": 47080.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 78,
+  "b": "2025",
+  "y": 48319.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 79,
+  "b": "2025",
+  "y": 38294.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 80,
+  "b": "2025",
+  "y": 34517.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 81,
+  "b": "2025",
+  "y": 33155.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 82,
+  "b": "2025",
+  "y": 30236.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 83,
+  "b": "2025",
+  "y": 26628.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 84,
+  "b": "2025",
+  "y": 22945.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 85,
+  "b": "2025",
+  "y": 23331.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 86,
+  "b": "2025",
+  "y": 21354.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 87,
+  "b": "2025",
+  "y": 19468.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 88,
+  "b": "2025",
+  "y": 16784.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 89,
+  "b": "2025",
+  "y": 14483.0
+ },
+ {
+  "dataset": "london_age_structure",
+  "xd": 90,
+  "b": "2025",
+  "y": 56175.0
+ }
+]

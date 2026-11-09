@@ -2,2342 +2,62 @@
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
-  "b": "2001|Female",
-  "y": 234614.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2001|Male",
-  "y": 244208.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2001|Female",
-  "y": 213666.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2001|Male",
-  "y": 222777.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2001|Female",
-  "y": 205197.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2001|Male",
-  "y": 213302.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2001|Female",
-  "y": 278405.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2001|Male",
-  "y": 264419.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2001|Female",
-  "y": 362750.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2001|Male",
-  "y": 373522.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2001|Female",
-  "y": 357530.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2001|Male",
-  "y": 382141.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2001|Female",
-  "y": 326097.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2001|Male",
-  "y": 327771.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2001|Female",
-  "y": 260456.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2001|Male",
-  "y": 257668.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2001|Female",
-  "y": 216317.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2001|Male",
-  "y": 207985.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2001|Female",
-  "y": 221231.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2001|Male",
-  "y": 231044.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2001|Female",
-  "y": 211757.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2001|Male",
-  "y": 199658.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2001|Female",
-  "y": 170399.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2001|Male",
-  "y": 158832.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2001|Female",
-  "y": 146037.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2001|Male",
-  "y": 137502.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2001|Female",
-  "y": 129420.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2001|Male",
-  "y": 119826.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2001|Female",
-  "y": 120932.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2001|Male",
-  "y": 100410.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2001|Female",
-  "y": 109445.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2001|Male",
-  "y": 76439.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2001|Female",
-  "y": 79478.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2001|Male",
-  "y": 47477.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2001|Female",
-  "y": 52483.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2001|Male",
-  "y": 23293.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2001|Female",
-  "y": 29069.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2001|Male",
-  "y": 8846.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2002|Female",
-  "y": 235931.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2002|Male",
-  "y": 245001.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2002|Female",
-  "y": 215477.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2002|Male",
-  "y": 223831.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2002|Female",
-  "y": 208003.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2002|Male",
-  "y": 223618.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2002|Female",
-  "y": 279694.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2002|Male",
-  "y": 263445.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2002|Female",
-  "y": 359492.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2002|Male",
-  "y": 371936.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2002|Female",
-  "y": 356208.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2002|Male",
-  "y": 379060.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2002|Female",
-  "y": 330965.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2002|Male",
-  "y": 337264.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2002|Female",
-  "y": 269105.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2002|Male",
-  "y": 268499.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2002|Female",
-  "y": 219508.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2002|Male",
-  "y": 211632.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2002|Female",
-  "y": 222382.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2002|Male",
-  "y": 232414.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2002|Female",
-  "y": 205089.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2002|Male",
-  "y": 193897.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2002|Female",
-  "y": 181334.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2002|Male",
-  "y": 169873.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2002|Female",
-  "y": 144167.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2002|Male",
-  "y": 134980.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2002|Female",
-  "y": 129512.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2002|Male",
-  "y": 119211.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2002|Female",
-  "y": 119714.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2002|Male",
-  "y": 100277.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2002|Female",
-  "y": 105970.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2002|Male",
-  "y": 75374.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2002|Female",
-  "y": 81979.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2002|Male",
-  "y": 49495.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2002|Female",
-  "y": 50123.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2002|Male",
-  "y": 22476.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2002|Female",
-  "y": 29581.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2002|Male",
-  "y": 9443.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2003|Female",
-  "y": 237325.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2003|Male",
-  "y": 247053.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2003|Female",
-  "y": 215496.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2003|Male",
-  "y": 223596.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2003|Female",
-  "y": 215192.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2003|Male",
-  "y": 228938.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2003|Female",
-  "y": 275554.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2003|Male",
-  "y": 261073.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2003|Female",
-  "y": 355776.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2003|Male",
-  "y": 362648.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2003|Female",
-  "y": 351798.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2003|Male",
-  "y": 373450.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2003|Female",
-  "y": 328776.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2003|Male",
-  "y": 340312.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2003|Female",
-  "y": 278049.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2003|Male",
-  "y": 275696.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2003|Female",
-  "y": 224338.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2003|Male",
-  "y": 217645.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2003|Female",
-  "y": 224278.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2003|Male",
-  "y": 233099.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2003|Female",
-  "y": 199848.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2003|Male",
-  "y": 190152.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2003|Female",
-  "y": 185790.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2003|Male",
-  "y": 176069.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2003|Female",
-  "y": 145271.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2003|Male",
-  "y": 134084.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2003|Female",
-  "y": 130445.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2003|Male",
-  "y": 118849.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2003|Female",
-  "y": 118224.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2003|Male",
-  "y": 99643.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2003|Female",
-  "y": 103292.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2003|Male",
-  "y": 74582.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2003|Female",
-  "y": 84896.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2003|Male",
-  "y": 51552.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2003|Female",
-  "y": 46053.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2003|Male",
-  "y": 20963.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2003|Female",
-  "y": 29922.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2003|Male",
-  "y": 9870.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2004|Female",
-  "y": 240046.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2004|Male",
-  "y": 250750.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2004|Female",
-  "y": 213383.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2004|Male",
-  "y": 222282.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2004|Female",
-  "y": 218906.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2004|Male",
-  "y": 229786.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2004|Female",
-  "y": 279084.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2004|Male",
-  "y": 269933.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2004|Female",
-  "y": 361160.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2004|Male",
-  "y": 357771.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2004|Female",
-  "y": 347341.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2004|Male",
-  "y": 370195.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2004|Female",
-  "y": 327699.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2004|Male",
-  "y": 339557.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2004|Female",
-  "y": 285964.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2004|Male",
-  "y": 280396.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2004|Female",
-  "y": 229383.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2004|Male",
-  "y": 226402.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2004|Female",
-  "y": 226214.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2004|Male",
-  "y": 234782.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2004|Female",
-  "y": 198099.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2004|Male",
-  "y": 187688.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2004|Female",
-  "y": 189326.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2004|Male",
-  "y": 179326.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2004|Female",
-  "y": 145602.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2004|Male",
-  "y": 133674.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2004|Female",
-  "y": 131198.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2004|Male",
-  "y": 118986.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2004|Female",
-  "y": 115806.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2004|Male",
-  "y": 98849.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2004|Female",
-  "y": 101061.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2004|Male",
-  "y": 74264.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2004|Female",
-  "y": 85489.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2004|Male",
-  "y": 52258.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2004|Female",
-  "y": 44198.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2004|Male",
-  "y": 20971.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2004|Female",
-  "y": 29853.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2004|Male",
-  "y": 10137.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2005|Female",
-  "y": 246094.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2005|Male",
-  "y": 256515.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2005|Female",
-  "y": 212471.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2005|Male",
-  "y": 223059.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2005|Female",
-  "y": 221527.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2005|Male",
-  "y": 227828.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2005|Female",
-  "y": 285692.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2005|Male",
-  "y": 276519.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2005|Female",
-  "y": 373883.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2005|Male",
-  "y": 360094.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2005|Female",
-  "y": 351919.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2005|Male",
-  "y": 368867.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2005|Female",
-  "y": 325096.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2005|Male",
-  "y": 341151.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2005|Female",
-  "y": 293472.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2005|Male",
-  "y": 288102.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2005|Female",
-  "y": 237371.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2005|Male",
-  "y": 234723.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2005|Female",
-  "y": 225540.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2005|Male",
-  "y": 234125.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2005|Female",
-  "y": 199081.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2005|Male",
-  "y": 189517.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2005|Female",
-  "y": 191371.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2005|Male",
-  "y": 182084.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2005|Female",
-  "y": 146132.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2005|Male",
-  "y": 135801.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2005|Female",
-  "y": 131496.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2005|Male",
-  "y": 118575.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2005|Female",
-  "y": 114227.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2005|Male",
-  "y": 98398.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2005|Female",
-  "y": 100554.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2005|Male",
-  "y": 75135.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2005|Female",
-  "y": 82630.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2005|Male",
-  "y": 51093.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2005|Female",
-  "y": 46096.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2005|Male",
-  "y": 22978.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2005|Female",
-  "y": 30133.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2005|Male",
-  "y": 10296.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2006|Female",
-  "y": 253049.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2006|Male",
-  "y": 262998.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2006|Female",
-  "y": 214243.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2006|Male",
-  "y": 223179.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2006|Female",
-  "y": 219783.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2006|Male",
-  "y": 231085.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2006|Female",
-  "y": 292790.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2006|Male",
-  "y": 281602.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2006|Female",
-  "y": 382950.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2006|Male",
-  "y": 366198.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2006|Female",
-  "y": 355428.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2006|Male",
-  "y": 367078.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2006|Female",
-  "y": 322737.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2006|Male",
-  "y": 339637.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2006|Female",
-  "y": 298439.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2006|Male",
-  "y": 292939.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2006|Female",
-  "y": 244548.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2006|Male",
-  "y": 242206.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2006|Female",
-  "y": 224196.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2006|Male",
-  "y": 231705.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2006|Female",
-  "y": 202194.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2006|Male",
-  "y": 194089.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2006|Female",
-  "y": 192252.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2006|Male",
-  "y": 182649.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2006|Female",
-  "y": 151051.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2006|Male",
-  "y": 140486.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2006|Female",
-  "y": 127913.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2006|Male",
-  "y": 115608.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2006|Female",
-  "y": 113094.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2006|Male",
-  "y": 98310.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2006|Female",
-  "y": 99743.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2006|Male",
-  "y": 76305.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2006|Female",
-  "y": 80257.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2006|Male",
-  "y": 50406.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2006|Female",
-  "y": 48296.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2006|Male",
-  "y": 24864.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2006|Female",
-  "y": 29766.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2006|Male",
-  "y": 10397.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2007|Female",
-  "y": 261237.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2007|Male",
-  "y": 272805.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2007|Female",
-  "y": 217633.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2007|Male",
-  "y": 225529.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2007|Female",
-  "y": 221909.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2007|Male",
-  "y": 231686.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2007|Female",
-  "y": 298951.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2007|Male",
-  "y": 293312.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2007|Female",
-  "y": 393842.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2007|Male",
-  "y": 374815.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2007|Female",
-  "y": 354465.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2007|Male",
-  "y": 364608.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2007|Female",
-  "y": 322433.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2007|Male",
-  "y": 337873.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2007|Female",
-  "y": 303450.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2007|Male",
-  "y": 299012.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2007|Female",
-  "y": 252189.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2007|Male",
-  "y": 247537.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2007|Female",
-  "y": 223144.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2007|Male",
-  "y": 231510.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2007|Female",
-  "y": 205308.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2007|Male",
-  "y": 198219.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2007|Female",
-  "y": 186968.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2007|Male",
-  "y": 176950.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2007|Female",
-  "y": 160483.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2007|Male",
-  "y": 150076.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2007|Female",
-  "y": 126518.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2007|Male",
-  "y": 113571.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2007|Female",
-  "y": 112815.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2007|Male",
-  "y": 98406.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2007|Female",
-  "y": 99169.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2007|Male",
-  "y": 77226.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2007|Female",
-  "y": 78315.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2007|Male",
-  "y": 50431.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2007|Female",
-  "y": 50403.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2007|Male",
-  "y": 26456.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2007|Female",
-  "y": 29251.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2007|Male",
-  "y": 10348.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2008|Female",
-  "y": 270639.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2008|Male",
-  "y": 281167.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2008|Female",
-  "y": 219491.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2008|Male",
-  "y": 227389.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2008|Female",
-  "y": 223700.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2008|Male",
-  "y": 231680.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2008|Female",
-  "y": 306557.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2008|Male",
-  "y": 296456.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2008|Female",
-  "y": 405066.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2008|Male",
-  "y": 390762.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2008|Female",
-  "y": 361561.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2008|Male",
-  "y": 370382.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2008|Female",
-  "y": 322723.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2008|Male",
-  "y": 336376.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2008|Female",
-  "y": 302414.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2008|Male",
-  "y": 302714.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2008|Female",
-  "y": 261179.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2008|Male",
-  "y": 254103.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2008|Female",
-  "y": 223395.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2008|Male",
-  "y": 232732.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2008|Female",
-  "y": 211315.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2008|Male",
-  "y": 206307.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2008|Female",
-  "y": 183488.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2008|Male",
-  "y": 174120.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2008|Female",
-  "y": 166265.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2008|Male",
-  "y": 156027.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2008|Female",
-  "y": 127859.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2008|Male",
-  "y": 114303.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2008|Female",
-  "y": 113836.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2008|Male",
-  "y": 99558.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2008|Female",
-  "y": 98545.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2008|Male",
-  "y": 77831.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2008|Female",
-  "y": 77225.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2008|Male",
-  "y": 50684.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2008|Female",
-  "y": 52744.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2008|Male",
-  "y": 27916.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2008|Female",
-  "y": 27809.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2008|Male",
-  "y": 9856.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2009|Female",
-  "y": 279063.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2009|Male",
+  "b": "2011|Female",
   "y": 290277.0
  },
  {
   "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2009|Female",
-  "y": 221161.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2009|Male",
-  "y": 230852.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2009|Female",
-  "y": 226898.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2009|Male",
-  "y": 233275.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2009|Female",
-  "y": 308761.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2009|Male",
-  "y": 293464.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2009|Female",
-  "y": 410685.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2009|Male",
-  "y": 396821.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2009|Female",
-  "y": 371856.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2009|Male",
-  "y": 383566.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2009|Female",
-  "y": 325807.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2009|Male",
-  "y": 336611.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2009|Female",
-  "y": 304991.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2009|Male",
-  "y": 306993.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2009|Female",
-  "y": 270096.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2009|Male",
-  "y": 263107.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2009|Female",
-  "y": 226621.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2009|Male",
-  "y": 235223.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2009|Female",
-  "y": 217905.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2009|Male",
-  "y": 215367.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2009|Female",
-  "y": 185024.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2009|Male",
-  "y": 175025.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2009|Female",
-  "y": 171266.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2009|Male",
-  "y": 160200.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2009|Female",
-  "y": 130265.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2009|Male",
-  "y": 116287.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2009|Female",
-  "y": 115550.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2009|Male",
-  "y": 100751.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2009|Female",
-  "y": 98039.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2009|Male",
-  "y": 78457.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2009|Female",
-  "y": 76744.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2009|Male",
-  "y": 51460.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2009|Female",
-  "y": 53004.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2009|Male",
-  "y": 28151.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2009|Female",
-  "y": 28225.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2009|Male",
-  "y": 10511.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2010|Female",
-  "y": 285614.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2010|Male",
-  "y": 297750.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2010|Female",
-  "y": 222831.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "10-14",
-  "b": "2010|Male",
-  "y": 232274.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2010|Female",
-  "y": 226542.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "15-19",
-  "b": "2010|Male",
-  "y": 236569.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2010|Female",
-  "y": 309220.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "20-24",
-  "b": "2010|Male",
-  "y": 299934.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2010|Female",
-  "y": 416450.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "25-29",
-  "b": "2010|Male",
-  "y": 402135.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2010|Female",
-  "y": 383788.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "30-34",
-  "b": "2010|Male",
-  "y": 392337.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2010|Female",
-  "y": 327528.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "35-39",
-  "b": "2010|Male",
-  "y": 337145.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2010|Female",
-  "y": 304841.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "40-44",
-  "b": "2010|Male",
-  "y": 305321.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2010|Female",
-  "y": 278112.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "45-49",
-  "b": "2010|Male",
-  "y": 270124.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2010|Female",
-  "y": 232066.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "5-9",
-  "b": "2010|Male",
-  "y": 240165.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2010|Female",
-  "y": 225580.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "50-54",
-  "b": "2010|Male",
-  "y": 222541.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2010|Female",
-  "y": 187229.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "55-59",
-  "b": "2010|Male",
-  "y": 177914.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2010|Female",
-  "y": 174956.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "60-64",
-  "b": "2010|Male",
-  "y": 163923.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2010|Female",
-  "y": 132303.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "65-69",
-  "b": "2010|Male",
-  "y": 118453.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2010|Female",
-  "y": 116287.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "70-74",
-  "b": "2010|Male",
-  "y": 101744.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2010|Female",
-  "y": 97551.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "75-79",
-  "b": "2010|Male",
-  "y": 78926.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2010|Female",
-  "y": 77191.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "80-84",
-  "b": "2010|Male",
-  "y": 52977.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2010|Female",
-  "y": 52660.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "85-89",
-  "b": "2010|Male",
-  "y": 28264.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2010|Female",
-  "y": 29592.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "90+",
-  "b": "2010|Male",
-  "y": 11485.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
-  "xd": "0-4",
-  "b": "2011|Female",
-  "y": 288990.0
- },
- {
-  "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2011|Male",
-  "y": 302353.0
+  "y": 303802.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2011|Female",
-  "y": 222189.0
+  "y": 223096.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2011|Male",
-  "y": 232143.0
+  "y": 233095.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2011|Female",
-  "y": 230945.0
+  "y": 230947.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2011|Male",
-  "y": 240311.0
+  "y": 240312.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2011|Female",
-  "y": 315161.0
+  "y": 315165.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2011|Male",
-  "y": 308441.0
+  "y": 308443.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2011|Female",
-  "y": 422242.0
+  "y": 422241.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2011|Male",
-  "y": 414567.0
+  "y": 414568.0
  },
  {
   "dataset": "london_age_sex_pyramid",
@@ -2355,7 +75,7 @@
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2011|Female",
-  "y": 328313.0
+  "y": 328312.0
  },
  {
   "dataset": "london_age_sex_pyramid",
@@ -2367,139 +87,139 @@
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2011|Female",
-  "y": 304971.0
+  "y": 304970.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2011|Male",
-  "y": 305147.0
+  "y": 305150.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2011|Female",
-  "y": 284906.0
+  "y": 284909.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2011|Male",
-  "y": 276204.0
+  "y": 276203.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2011|Female",
-  "y": 237705.0
+  "y": 238833.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2011|Male",
-  "y": 246170.0
+  "y": 248119.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2011|Female",
-  "y": 234876.0
+  "y": 234877.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2011|Male",
-  "y": 229899.0
+  "y": 229900.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2011|Female",
-  "y": 191921.0
+  "y": 191925.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2011|Male",
-  "y": 183213.0
+  "y": 183210.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2011|Female",
-  "y": 176900.0
+  "y": 176905.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2011|Male",
-  "y": 165368.0
+  "y": 165372.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2011|Female",
-  "y": 138038.0
+  "y": 138037.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2011|Male",
-  "y": 123436.0
+  "y": 123434.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2011|Female",
-  "y": 114552.0
+  "y": 114567.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2011|Male",
-  "y": 99798.0
+  "y": 99795.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2011|Female",
-  "y": 97717.0
+  "y": 97703.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2011|Male",
-  "y": 80056.0
+  "y": 80052.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2011|Female",
-  "y": 77767.0
+  "y": 77775.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2011|Male",
-  "y": 54675.0
+  "y": 54678.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2011|Female",
-  "y": 51972.0
+  "y": 51975.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2011|Male",
-  "y": 28921.0
+  "y": 28924.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2011|Female",
-  "y": 31171.0
+  "y": 31178.0
  },
  {
   "dataset": "london_age_sex_pyramid",
@@ -2511,1789 +231,1789 @@
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2012|Female",
-  "y": 296086.0
+  "y": 298070.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2012|Male",
-  "y": 310066.0
+  "y": 312035.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2012|Female",
-  "y": 219074.0
+  "y": 220406.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2012|Male",
-  "y": 228157.0
+  "y": 229699.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2012|Female",
-  "y": 230549.0
+  "y": 230583.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2012|Male",
-  "y": 242373.0
+  "y": 242291.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2012|Female",
-  "y": 321042.0
+  "y": 320349.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2012|Male",
-  "y": 302118.0
+  "y": 302096.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2012|Female",
-  "y": 422847.0
+  "y": 422704.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2012|Male",
-  "y": 401051.0
+  "y": 402657.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2012|Female",
-  "y": 410558.0
+  "y": 410435.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2012|Male",
-  "y": 414937.0
+  "y": 415386.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2012|Female",
-  "y": 333992.0
+  "y": 333835.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2012|Male",
-  "y": 345813.0
+  "y": 345790.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2012|Female",
-  "y": 308079.0
+  "y": 307972.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2012|Male",
-  "y": 309391.0
+  "y": 309303.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2012|Female",
-  "y": 291416.0
+  "y": 291207.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2012|Male",
-  "y": 282950.0
+  "y": 282802.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2012|Female",
-  "y": 247691.0
+  "y": 249187.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2012|Male",
-  "y": 256900.0
+  "y": 259614.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2012|Female",
-  "y": 244319.0
+  "y": 244097.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2012|Male",
-  "y": 238277.0
+  "y": 238089.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2012|Female",
-  "y": 196802.0
+  "y": 196660.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2012|Male",
-  "y": 188840.0
+  "y": 188614.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2012|Female",
-  "y": 173100.0
+  "y": 173008.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2012|Male",
-  "y": 160890.0
+  "y": 160725.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2012|Female",
-  "y": 147401.0
+  "y": 147383.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2012|Male",
-  "y": 133369.0
+  "y": 133347.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2012|Female",
-  "y": 114813.0
+  "y": 114799.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2012|Male",
-  "y": 98702.0
+  "y": 98671.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2012|Female",
-  "y": 98342.0
+  "y": 98337.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2012|Male",
-  "y": 80633.0
+  "y": 80654.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2012|Female",
-  "y": 78207.0
+  "y": 78239.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2012|Male",
-  "y": 55844.0
+  "y": 55873.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2012|Female",
-  "y": 50926.0
+  "y": 51011.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2012|Male",
-  "y": 29261.0
+  "y": 29460.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2012|Female",
-  "y": 32474.0
+  "y": 32495.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2012|Male",
-  "y": 12849.0
+  "y": 12884.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2013|Female",
-  "y": 298582.0
+  "y": 300992.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2013|Male",
-  "y": 312999.0
+  "y": 315235.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2013|Female",
-  "y": 219704.0
+  "y": 221363.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2013|Male",
-  "y": 227753.0
+  "y": 229593.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2013|Female",
-  "y": 230303.0
+  "y": 230395.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2013|Male",
-  "y": 241804.0
+  "y": 241830.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2013|Female",
-  "y": 328670.0
+  "y": 327843.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2013|Male",
-  "y": 300829.0
+  "y": 300523.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2013|Female",
-  "y": 425125.0
+  "y": 424348.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2013|Male",
-  "y": 389611.0
+  "y": 392127.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2013|Female",
-  "y": 422131.0
+  "y": 421991.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2013|Male",
-  "y": 419141.0
+  "y": 420211.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2013|Female",
-  "y": 342158.0
+  "y": 341944.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2013|Male",
-  "y": 352806.0
+  "y": 353095.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2013|Female",
-  "y": 310488.0
+  "y": 310234.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2013|Male",
-  "y": 312998.0
+  "y": 312955.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2013|Female",
-  "y": 296022.0
+  "y": 295592.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2013|Male",
-  "y": 288079.0
+  "y": 287813.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2013|Female",
-  "y": 256832.0
+  "y": 258951.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2013|Male",
-  "y": 266427.0
+  "y": 270421.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2013|Female",
-  "y": 254769.0
+  "y": 254368.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2013|Male",
-  "y": 246937.0
+  "y": 246669.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2013|Female",
-  "y": 203155.0
+  "y": 202865.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2013|Male",
-  "y": 195708.0
+  "y": 195377.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2013|Female",
-  "y": 172051.0
+  "y": 171906.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2013|Male",
-  "y": 159998.0
+  "y": 159744.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2013|Female",
-  "y": 152826.0
+  "y": 152764.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2013|Male",
-  "y": 138962.0
+  "y": 138865.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2013|Female",
-  "y": 116320.0
+  "y": 116293.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2013|Male",
-  "y": 99208.0
+  "y": 99210.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2013|Female",
-  "y": 99465.0
+  "y": 99457.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2013|Male",
-  "y": 81665.0
+  "y": 81707.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2013|Female",
-  "y": 78301.0
+  "y": 78319.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2013|Male",
-  "y": 56736.0
+  "y": 56747.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2013|Female",
-  "y": 50640.0
+  "y": 50739.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2013|Male",
-  "y": 29518.0
+  "y": 29866.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2013|Female",
-  "y": 33044.0
+  "y": 33084.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2013|Male",
-  "y": 13443.0
+  "y": 13551.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2014|Female",
-  "y": 298229.0
+  "y": 300332.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2014|Male",
-  "y": 313932.0
+  "y": 315995.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2014|Female",
-  "y": 222176.0
+  "y": 224220.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2014|Male",
-  "y": 229226.0
+  "y": 232155.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2014|Female",
-  "y": 229804.0
+  "y": 229962.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2014|Male",
-  "y": 240256.0
+  "y": 240543.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2014|Female",
-  "y": 329893.0
+  "y": 329225.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2014|Male",
-  "y": 302134.0
+  "y": 301441.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2014|Female",
-  "y": 428505.0
+  "y": 426875.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2014|Male",
-  "y": 383036.0
+  "y": 385577.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2014|Female",
-  "y": 426392.0
+  "y": 426273.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2014|Male",
-  "y": 419211.0
+  "y": 421252.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2014|Female",
-  "y": 353561.0
+  "y": 353272.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2014|Male",
-  "y": 362952.0
+  "y": 363629.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2014|Female",
-  "y": 312014.0
+  "y": 311701.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2014|Male",
-  "y": 316038.0
+  "y": 316085.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2014|Female",
-  "y": 299751.0
+  "y": 299214.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2014|Male",
-  "y": 292161.0
+  "y": 291795.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2014|Female",
-  "y": 263146.0
+  "y": 266536.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2014|Male",
-  "y": 273390.0
+  "y": 278261.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2014|Female",
-  "y": 264890.0
+  "y": 264393.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2014|Male",
-  "y": 255892.0
+  "y": 255564.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2014|Female",
-  "y": 209993.0
+  "y": 209593.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2014|Male",
-  "y": 203766.0
+  "y": 203354.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2014|Female",
-  "y": 172983.0
+  "y": 172782.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2014|Male",
-  "y": 161202.0
+  "y": 160852.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2014|Female",
-  "y": 156395.0
+  "y": 156332.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2014|Male",
-  "y": 141731.0
+  "y": 141631.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2014|Female",
-  "y": 117711.0
+  "y": 117682.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2014|Male",
-  "y": 100647.0
+  "y": 100623.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2014|Female",
-  "y": 101074.0
+  "y": 101058.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2014|Male",
-  "y": 82735.0
+  "y": 82778.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2014|Female",
-  "y": 78195.0
+  "y": 78178.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2014|Male",
-  "y": 57633.0
+  "y": 57586.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2014|Female",
-  "y": 50812.0
+  "y": 50912.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2014|Male",
-  "y": 30337.0
+  "y": 30766.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2014|Female",
-  "y": 34162.0
+  "y": 34213.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2014|Male",
-  "y": 14343.0
+  "y": 14552.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2015|Female",
-  "y": 296441.0
+  "y": 298457.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2015|Male",
-  "y": 312616.0
+  "y": 314685.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2015|Female",
-  "y": 227687.0
+  "y": 228930.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2015|Male",
-  "y": 235699.0
+  "y": 238369.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2015|Female",
-  "y": 228177.0
+  "y": 229798.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2015|Male",
-  "y": 238686.0
+  "y": 240498.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2015|Female",
-  "y": 333365.0
+  "y": 332992.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2015|Male",
-  "y": 308889.0
+  "y": 307860.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2015|Female",
-  "y": 432190.0
+  "y": 429865.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2015|Male",
-  "y": 378277.0
+  "y": 379876.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2015|Female",
-  "y": 430124.0
+  "y": 429962.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2015|Male",
-  "y": 417384.0
+  "y": 420346.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2015|Female",
-  "y": 365397.0
+  "y": 365012.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2015|Male",
-  "y": 372213.0
+  "y": 373261.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2015|Female",
-  "y": 315148.0
+  "y": 314771.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2015|Male",
-  "y": 319450.0
+  "y": 319507.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2015|Female",
-  "y": 302763.0
+  "y": 302097.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2015|Male",
-  "y": 295691.0
+  "y": 295150.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2015|Female",
-  "y": 268362.0
+  "y": 272466.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2015|Male",
-  "y": 278915.0
+  "y": 284562.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2015|Female",
-  "y": 273817.0
+  "y": 273213.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2015|Male",
-  "y": 263039.0
+  "y": 262535.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2015|Female",
-  "y": 218704.0
+  "y": 218179.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2015|Male",
-  "y": 212351.0
+  "y": 211815.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2015|Female",
-  "y": 174855.0
+  "y": 174591.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2015|Male",
-  "y": 164232.0
+  "y": 163743.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2015|Female",
-  "y": 159600.0
+  "y": 159512.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2015|Male",
-  "y": 144354.0
+  "y": 144198.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2015|Female",
-  "y": 119444.0
+  "y": 119388.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2015|Male",
-  "y": 101862.0
+  "y": 101809.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2015|Female",
-  "y": 101598.0
+  "y": 101584.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2015|Male",
-  "y": 83184.0
+  "y": 83207.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2015|Female",
-  "y": 77562.0
+  "y": 77543.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2015|Male",
-  "y": 57903.0
+  "y": 57832.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2015|Female",
-  "y": 51402.0
+  "y": 51481.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2015|Male",
-  "y": 31171.0
+  "y": 31563.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2015|Female",
-  "y": 33971.0
+  "y": 34047.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2015|Male",
-  "y": 14507.0
+  "y": 14841.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2016|Female",
-  "y": 292501.0
+  "y": 296148.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2016|Male",
-  "y": 307303.0
+  "y": 311790.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2016|Female",
-  "y": 234339.0
+  "y": 236310.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2016|Male",
-  "y": 242322.0
+  "y": 245928.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2016|Female",
-  "y": 226375.0
+  "y": 228524.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2016|Male",
-  "y": 235500.0
+  "y": 238431.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2016|Female",
-  "y": 334997.0
+  "y": 334710.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2016|Male",
-  "y": 307354.0
+  "y": 306210.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2016|Female",
-  "y": 435756.0
+  "y": 433086.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2016|Male",
-  "y": 375236.0
+  "y": 375405.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2016|Female",
-  "y": 431740.0
+  "y": 431414.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2016|Male",
-  "y": 410402.0
+  "y": 414730.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2016|Female",
-  "y": 376784.0
+  "y": 376275.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2016|Male",
-  "y": 377710.0
+  "y": 379630.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2016|Female",
-  "y": 317427.0
+  "y": 316933.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2016|Male",
-  "y": 320540.0
+  "y": 320591.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2016|Female",
-  "y": 304926.0
+  "y": 304140.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2016|Male",
-  "y": 297886.0
+  "y": 297123.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2016|Female",
-  "y": 273595.0
+  "y": 276150.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2016|Male",
-  "y": 285248.0
+  "y": 289105.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2016|Female",
-  "y": 282143.0
+  "y": 281411.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2016|Male",
-  "y": 269447.0
+  "y": 268746.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2016|Female",
-  "y": 227001.0
+  "y": 226317.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2016|Male",
-  "y": 219978.0
+  "y": 219162.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2016|Female",
-  "y": 178737.0
+  "y": 178470.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2016|Male",
-  "y": 168567.0
+  "y": 168014.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2016|Female",
-  "y": 160937.0
+  "y": 160818.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2016|Male",
-  "y": 146024.0
+  "y": 145749.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2016|Female",
-  "y": 124106.0
+  "y": 124008.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2016|Male",
-  "y": 105681.0
+  "y": 105587.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2016|Female",
-  "y": 100255.0
+  "y": 100249.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2016|Male",
-  "y": 81333.0
+  "y": 81343.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2016|Female",
-  "y": 78098.0
+  "y": 78103.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2016|Male",
-  "y": 58922.0
+  "y": 58938.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2016|Female",
-  "y": 51907.0
+  "y": 51934.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2016|Male",
-  "y": 32035.0
+  "y": 32251.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2016|Female",
-  "y": 34387.0
+  "y": 34474.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2016|Male",
-  "y": 14986.0
+  "y": 15444.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2017|Female",
-  "y": 288857.0
+  "y": 290367.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2017|Male",
-  "y": 302355.0
+  "y": 304079.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2017|Female",
-  "y": 241394.0
+  "y": 243778.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2017|Male",
-  "y": 249718.0
+  "y": 254800.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2017|Female",
-  "y": 223668.0
+  "y": 226517.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2017|Male",
-  "y": 230639.0
+  "y": 234510.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2017|Female",
-  "y": 328316.0
+  "y": 328423.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2017|Male",
-  "y": 303799.0
+  "y": 302967.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2017|Female",
-  "y": 433239.0
+  "y": 430962.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2017|Male",
-  "y": 372580.0
+  "y": 371609.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2017|Female",
-  "y": 429061.0
+  "y": 428693.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2017|Male",
-  "y": 400789.0
+  "y": 404826.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2017|Female",
-  "y": 383332.0
+  "y": 382973.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2017|Male",
-  "y": 379083.0
+  "y": 381124.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2017|Female",
-  "y": 320215.0
+  "y": 319882.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2017|Male",
-  "y": 320772.0
+  "y": 321085.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2017|Female",
-  "y": 305389.0
+  "y": 304801.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2017|Male",
-  "y": 298702.0
+  "y": 298220.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2017|Female",
-  "y": 274389.0
+  "y": 277619.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2017|Male",
-  "y": 286498.0
+  "y": 290289.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2017|Female",
-  "y": 287181.0
+  "y": 286593.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2017|Male",
-  "y": 274718.0
+  "y": 274065.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2017|Female",
-  "y": 235400.0
+  "y": 234767.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2017|Male",
-  "y": 227464.0
+  "y": 226682.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2017|Female",
-  "y": 183159.0
+  "y": 182887.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2017|Male",
-  "y": 173582.0
+  "y": 173071.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2017|Female",
-  "y": 157469.0
+  "y": 157392.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2017|Male",
-  "y": 142143.0
+  "y": 141848.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2017|Female",
-  "y": 132329.0
+  "y": 132289.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2017|Male",
-  "y": 114048.0
+  "y": 113961.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2017|Female",
-  "y": 100371.0
+  "y": 100362.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2017|Male",
-  "y": 80711.0
+  "y": 80701.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2017|Female",
-  "y": 78838.0
+  "y": 78849.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2017|Male",
-  "y": 59376.0
+  "y": 59406.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2017|Female",
-  "y": 52495.0
+  "y": 52493.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2017|Male",
-  "y": 33146.0
+  "y": 33202.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2017|Female",
-  "y": 34155.0
+  "y": 34253.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2017|Male",
-  "y": 15317.0
+  "y": 15884.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2018|Female",
-  "y": 283959.0
+  "y": 284307.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2018|Male",
-  "y": 297960.0
+  "y": 298768.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2018|Female",
-  "y": 248316.0
+  "y": 250862.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2018|Male",
-  "y": 257093.0
+  "y": 262835.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2018|Female",
-  "y": 225934.0
+  "y": 229130.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2018|Male",
-  "y": 231319.0
+  "y": 236153.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2018|Female",
-  "y": 326840.0
+  "y": 327166.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2018|Male",
-  "y": 301587.0
+  "y": 301107.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2018|Female",
-  "y": 431539.0
+  "y": 430047.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2018|Male",
-  "y": 372964.0
+  "y": 371642.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2018|Female",
-  "y": 430332.0
+  "y": 429743.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2018|Male",
-  "y": 396358.0
+  "y": 399666.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2018|Female",
-  "y": 389141.0
+  "y": 388951.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2018|Male",
-  "y": 378217.0
+  "y": 380530.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2018|Female",
-  "y": 325022.0
+  "y": 324805.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2018|Male",
-  "y": 322495.0
+  "y": 323149.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2018|Female",
-  "y": 305151.0
+  "y": 304683.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2018|Male",
-  "y": 298590.0
+  "y": 298360.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2018|Female",
-  "y": 272825.0
+  "y": 275041.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2018|Male",
-  "y": 285060.0
+  "y": 287367.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2018|Female",
-  "y": 291080.0
+  "y": 290543.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2018|Male",
-  "y": 279125.0
+  "y": 278547.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2018|Female",
-  "y": 245082.0
+  "y": 244535.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2018|Male",
-  "y": 234783.0
+  "y": 234143.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2018|Female",
-  "y": 188853.0
+  "y": 188615.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2018|Male",
-  "y": 179823.0
+  "y": 179342.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2018|Female",
-  "y": 156422.0
+  "y": 156377.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2018|Male",
-  "y": 141488.0
+  "y": 141221.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2018|Female",
-  "y": 137228.0
+  "y": 137258.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2018|Male",
-  "y": 118945.0
+  "y": 118874.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2018|Female",
-  "y": 101272.0
+  "y": 101245.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2018|Male",
-  "y": 80968.0
+  "y": 80953.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2018|Female",
-  "y": 80135.0
+  "y": 80170.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2018|Male",
-  "y": 60333.0
+  "y": 60359.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2018|Female",
-  "y": 52791.0
+  "y": 52757.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2018|Male",
-  "y": 33721.0
+  "y": 33643.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2018|Female",
-  "y": 34059.0
+  "y": 34151.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2018|Male",
-  "y": 15656.0
+  "y": 16290.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2019|Female",
-  "y": 279692.0
+  "y": 278519.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2019|Male",
-  "y": 293322.0
+  "y": 292533.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2019|Female",
-  "y": 252970.0
+  "y": 255997.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2019|Male",
-  "y": 262281.0
+  "y": 267862.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2019|Female",
-  "y": 230926.0
+  "y": 234437.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2019|Male",
-  "y": 235021.0
+  "y": 241210.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2019|Female",
-  "y": 325472.0
+  "y": 325966.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2019|Male",
-  "y": 299820.0
+  "y": 299789.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2019|Female",
-  "y": 430400.0
+  "y": 429561.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2019|Male",
-  "y": 377396.0
+  "y": 376253.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2019|Female",
-  "y": 432952.0
+  "y": 432287.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2019|Male",
-  "y": 396130.0
+  "y": 398345.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2019|Female",
-  "y": 389686.0
+  "y": 389716.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2019|Male",
-  "y": 373574.0
+  "y": 376198.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2019|Female",
-  "y": 332418.0
+  "y": 332274.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2019|Male",
-  "y": 326183.0
+  "y": 327225.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2019|Female",
-  "y": 303895.0
+  "y": 303585.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2019|Male",
-  "y": 297784.0
+  "y": 297777.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2019|Female",
-  "y": 268871.0
+  "y": 270487.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2019|Male",
-  "y": 281581.0
+  "y": 283470.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2019|Female",
-  "y": 293027.0
+  "y": 292474.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2019|Male",
-  "y": 280517.0
+  "y": 279990.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2019|Female",
-  "y": 253321.0
+  "y": 252910.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2019|Male",
-  "y": 241730.0
+  "y": 241208.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2019|Female",
-  "y": 194990.0
+  "y": 194804.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2019|Male",
-  "y": 186534.0
+  "y": 186159.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2019|Female",
-  "y": 157342.0
+  "y": 157345.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2019|Male",
-  "y": 142382.0
+  "y": 142161.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2019|Female",
-  "y": 140545.0
+  "y": 140645.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2019|Male",
-  "y": 121436.0
+  "y": 121381.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2019|Female",
-  "y": 102771.0
+  "y": 102762.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2019|Male",
-  "y": 82409.0
+  "y": 82381.0
  },
  {
   "dataset": "london_age_sex_pyramid",
@@ -4305,343 +2025,343 @@
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2019|Male",
-  "y": 61325.0
+  "y": 61340.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2019|Female",
-  "y": 52708.0
+  "y": 52674.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2019|Male",
-  "y": 34555.0
+  "y": 34320.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2019|Female",
-  "y": 34888.0
+  "y": 34970.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2019|Male",
-  "y": 16333.0
+  "y": 16951.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2020|Female",
-  "y": 273156.0
+  "y": 271597.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2020|Male",
-  "y": 286400.0
+  "y": 284665.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2020|Female",
-  "y": 256271.0
+  "y": 259389.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2020|Male",
-  "y": 266134.0
+  "y": 270621.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2020|Female",
-  "y": 235302.0
+  "y": 238655.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2020|Male",
-  "y": 240235.0
+  "y": 246427.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2020|Female",
-  "y": 307131.0
+  "y": 307354.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2020|Male",
-  "y": 285391.0
+  "y": 285982.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2020|Female",
-  "y": 422415.0
+  "y": 422018.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2020|Male",
-  "y": 374133.0
+  "y": 373496.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2020|Female",
-  "y": 432099.0
+  "y": 431493.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2020|Male",
-  "y": 392090.0
+  "y": 393044.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2020|Female",
-  "y": 389546.0
+  "y": 389657.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2020|Male",
-  "y": 366149.0
+  "y": 368520.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2020|Female",
-  "y": 339964.0
+  "y": 339901.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2020|Male",
-  "y": 328198.0
+  "y": 329335.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2020|Female",
-  "y": 303548.0
+  "y": 303292.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2020|Male",
-  "y": 296469.0
+  "y": 296619.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2020|Female",
-  "y": 263571.0
+  "y": 265516.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2020|Male",
-  "y": 275922.0
+  "y": 277568.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2020|Female",
-  "y": 293696.0
+  "y": 293191.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2020|Male",
-  "y": 280687.0
+  "y": 280328.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2020|Female",
-  "y": 260019.0
+  "y": 259625.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2020|Male",
-  "y": 245967.0
+  "y": 245495.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2020|Female",
-  "y": 202781.0
+  "y": 202622.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2020|Male",
-  "y": 193300.0
+  "y": 192980.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2020|Female",
-  "y": 159180.0
+  "y": 159141.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2020|Male",
-  "y": 144374.0
+  "y": 144211.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2020|Female",
-  "y": 143447.0
+  "y": 143475.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2020|Male",
-  "y": 123490.0
+  "y": 123445.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2020|Female",
-  "y": 103891.0
+  "y": 103892.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2020|Male",
-  "y": 82812.0
+  "y": 82755.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2020|Female",
-  "y": 81837.0
+  "y": 81830.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2020|Male",
-  "y": 60989.0
+  "y": 60985.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2020|Female",
-  "y": 52320.0
+  "y": 52297.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2020|Male",
-  "y": 34341.0
+  "y": 34139.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2020|Female",
-  "y": 34629.0
+  "y": 34680.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2020|Male",
-  "y": 16338.0
+  "y": 16768.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2021|Female",
-  "y": 262464.0
+  "y": 257912.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2021|Male",
-  "y": 273867.0
+  "y": 268078.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2021|Female",
-  "y": 259474.0
+  "y": 262209.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2021|Male",
-  "y": 269805.0
+  "y": 273415.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2021|Female",
-  "y": 239667.0
+  "y": 243328.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2021|Male",
-  "y": 246772.0
+  "y": 252465.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2021|Female",
-  "y": 302965.0
+  "y": 302996.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2021|Male",
-  "y": 282965.0
+  "y": 283047.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2021|Female",
-  "y": 410451.0
+  "y": 410454.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2021|Male",
-  "y": 373539.0
+  "y": 373540.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2021|Female",
-  "y": 420475.0
+  "y": 420478.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2021|Male",
-  "y": 384542.0
+  "y": 384543.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2021|Female",
-  "y": 382146.0
+  "y": 382143.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2021|Male",
-  "y": 350845.0
+  "y": 350846.0
  },
  {
   "dataset": "london_age_sex_pyramid",
@@ -4671,13 +2391,13 @@
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2021|Female",
-  "y": 259953.0
+  "y": 259133.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2021|Male",
-  "y": 272652.0
+  "y": 270127.0
  },
  {
   "dataset": "london_age_sex_pyramid",
@@ -4689,13 +2409,13 @@
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2021|Male",
-  "y": 279539.0
+  "y": 279541.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2021|Female",
-  "y": 265903.0
+  "y": 265906.0
  },
  {
   "dataset": "london_age_sex_pyramid",
@@ -4707,13 +2427,13 @@
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2021|Female",
-  "y": 209406.0
+  "y": 209405.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2021|Male",
-  "y": 198555.0
+  "y": 198557.0
  },
  {
   "dataset": "london_age_sex_pyramid",
@@ -4725,187 +2445,187 @@
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2021|Male",
-  "y": 147326.0
+  "y": 147322.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2021|Female",
-  "y": 144498.0
+  "y": 144510.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2021|Male",
-  "y": 124603.0
+  "y": 124606.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2021|Female",
-  "y": 107773.0
+  "y": 107765.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2021|Male",
-  "y": 85661.0
+  "y": 85659.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2021|Female",
-  "y": 80396.0
+  "y": 80399.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2021|Male",
-  "y": 59344.0
+  "y": 59347.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2021|Female",
-  "y": 52805.0
+  "y": 52802.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2021|Male",
-  "y": 34913.0
+  "y": 34914.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2021|Female",
-  "y": 34937.0
+  "y": 34948.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2021|Male",
-  "y": 16602.0
+  "y": 16606.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2022|Female",
-  "y": 255638.0
+  "y": 256445.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2022|Male",
-  "y": 267376.0
+  "y": 267911.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2022|Female",
-  "y": 261537.0
+  "y": 262543.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2022|Male",
-  "y": 272801.0
+  "y": 273728.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2022|Female",
-  "y": 243657.0
+  "y": 246106.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2022|Male",
-  "y": 250887.0
+  "y": 255368.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2022|Female",
-  "y": 320416.0
+  "y": 320451.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2022|Male",
-  "y": 297801.0
+  "y": 297678.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2022|Female",
-  "y": 420526.0
+  "y": 420529.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2022|Male",
-  "y": 388885.0
+  "y": 388708.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2022|Female",
-  "y": 418912.0
+  "y": 418916.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2022|Male",
-  "y": 387838.0
+  "y": 387818.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2022|Female",
-  "y": 382744.0
+  "y": 382736.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2022|Male",
-  "y": 349478.0
+  "y": 349486.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2022|Female",
-  "y": 350434.0
+  "y": 350441.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2022|Male",
-  "y": 326410.0
+  "y": 326501.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2022|Female",
-  "y": 304793.0
+  "y": 304785.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2022|Male",
-  "y": 291681.0
+  "y": 291652.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2022|Female",
-  "y": 259095.0
+  "y": 255870.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2022|Male",
-  "y": 270785.0
+  "y": 266166.0
  },
  {
   "dataset": "london_age_sex_pyramid",
@@ -4923,397 +2643,397 @@
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2022|Female",
-  "y": 270497.0
+  "y": 270499.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2022|Male",
-  "y": 254101.0
+  "y": 254116.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2022|Female",
-  "y": 217874.0
+  "y": 217873.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2022|Male",
-  "y": 205217.0
+  "y": 205219.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2022|Female",
-  "y": 166921.0
+  "y": 166920.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2022|Male",
-  "y": 151956.0
+  "y": 151979.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2022|Female",
-  "y": 141852.0
+  "y": 141853.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2022|Male",
-  "y": 121332.0
+  "y": 121329.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2022|Female",
-  "y": 115399.0
+  "y": 115393.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2022|Male",
-  "y": 93139.0
+  "y": 93144.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2022|Female",
-  "y": 80611.0
+  "y": 80608.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2022|Male",
-  "y": 59283.0
+  "y": 59286.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2022|Female",
-  "y": 53613.0
+  "y": 53607.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2022|Male",
-  "y": 35542.0
+  "y": 35552.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2022|Female",
-  "y": 35427.0
+  "y": 35441.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2022|Male",
-  "y": 17306.0
+  "y": 17320.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2023|Female",
-  "y": 249493.0
+  "y": 255625.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2023|Male",
-  "y": 261349.0
+  "y": 268050.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2023|Female",
-  "y": 260255.0
+  "y": 259801.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2023|Male",
-  "y": 271619.0
+  "y": 270871.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2023|Female",
-  "y": 248032.0
+  "y": 249820.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2023|Male",
-  "y": 256054.0
+  "y": 259976.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2023|Female",
-  "y": 333284.0
+  "y": 333329.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2023|Male",
-  "y": 312267.0
+  "y": 312191.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2023|Female",
-  "y": 443763.0
+  "y": 443772.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2023|Male",
-  "y": 414950.0
+  "y": 414760.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2023|Female",
-  "y": 421277.0
+  "y": 421294.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2023|Male",
-  "y": 397122.0
+  "y": 397010.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2023|Female",
-  "y": 386434.0
+  "y": 386439.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2023|Male",
-  "y": 354383.0
+  "y": 354244.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2023|Female",
-  "y": 356172.0
+  "y": 356182.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2023|Male",
-  "y": 328273.0
+  "y": 328316.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2023|Female",
-  "y": 308987.0
+  "y": 308993.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2023|Male",
-  "y": 293196.0
+  "y": 293114.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2023|Female",
-  "y": 256654.0
+  "y": 253036.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2023|Male",
-  "y": 268826.0
+  "y": 264136.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2023|Female",
-  "y": 292486.0
+  "y": 292505.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2023|Male",
-  "y": 278771.0
+  "y": 278780.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2023|Female",
-  "y": 273864.0
+  "y": 273867.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2023|Male",
-  "y": 257681.0
+  "y": 257701.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2023|Female",
-  "y": 226932.0
+  "y": 226936.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2023|Male",
-  "y": 211838.0
+  "y": 211855.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2023|Female",
-  "y": 171910.0
+  "y": 171911.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2023|Male",
-  "y": 157654.0
+  "y": 157680.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2023|Female",
-  "y": 141294.0
+  "y": 141299.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2023|Male",
-  "y": 120766.0
+  "y": 120784.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2023|Female",
-  "y": 119693.0
+  "y": 119690.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2023|Male",
-  "y": 97391.0
+  "y": 97399.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2023|Female",
-  "y": 81673.0
+  "y": 81681.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2023|Male",
-  "y": 59651.0
+  "y": 59663.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2023|Female",
-  "y": 54695.0
+  "y": 54696.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2023|Male",
-  "y": 36334.0
+  "y": 36348.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2023|Female",
-  "y": 35479.0
+  "y": 35490.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2023|Male",
-  "y": 17649.0
+  "y": 17662.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2024|Female",
-  "y": 245200.0
+  "y": 254913.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "0-4",
   "b": "2024|Male",
-  "y": 257348.0
+  "y": 267533.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2024|Female",
-  "y": 257323.0
+  "y": 255342.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "10-14",
   "b": "2024|Male",
-  "y": 269168.0
+  "y": 267277.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2024|Female",
-  "y": 249728.0
+  "y": 251671.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "15-19",
   "b": "2024|Male",
-  "y": 258258.0
+  "y": 262174.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2024|Female",
-  "y": 334021.0
+  "y": 334115.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "20-24",
   "b": "2024|Male",
-  "y": 316996.0
+  "y": 316747.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2024|Female",
-  "y": 457202.0
+  "y": 457197.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "25-29",
   "b": "2024|Male",
-  "y": 430392.0
+  "y": 430162.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2024|Female",
-  "y": 420428.0
+  "y": 420447.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "30-34",
   "b": "2024|Male",
-  "y": 403147.0
+  "y": 403085.0
  },
  {
   "dataset": "london_age_sex_pyramid",
@@ -5325,150 +3045,378 @@
   "dataset": "london_age_sex_pyramid",
   "xd": "35-39",
   "b": "2024|Male",
-  "y": 357627.0
+  "y": 357453.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2024|Female",
-  "y": 356038.0
+  "y": 356061.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "40-44",
   "b": "2024|Male",
-  "y": 326933.0
+  "y": 327006.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2024|Female",
-  "y": 314971.0
+  "y": 314964.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "45-49",
   "b": "2024|Male",
-  "y": 295909.0
+  "y": 295920.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2024|Female",
-  "y": 252365.0
+  "y": 250568.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "5-9",
   "b": "2024|Male",
-  "y": 264633.0
+  "y": 262451.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2024|Female",
-  "y": 290719.0
+  "y": 290734.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "50-54",
   "b": "2024|Male",
-  "y": 276801.0
+  "y": 276824.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2024|Female",
-  "y": 275767.0
+  "y": 275773.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "55-59",
   "b": "2024|Male",
-  "y": 259229.0
+  "y": 259254.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2024|Female",
-  "y": 234633.0
+  "y": 234634.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "60-64",
   "b": "2024|Male",
-  "y": 218516.0
+  "y": 218542.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2024|Female",
-  "y": 177917.0
+  "y": 177920.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "65-69",
   "b": "2024|Male",
-  "y": 163678.0
+  "y": 163696.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2024|Female",
-  "y": 142552.0
+  "y": 142556.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "70-74",
   "b": "2024|Male",
-  "y": 122087.0
+  "y": 122089.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2024|Female",
-  "y": 123134.0
+  "y": 123137.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "75-79",
   "b": "2024|Male",
-  "y": 99807.0
+  "y": 99812.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2024|Female",
-  "y": 83092.0
+  "y": 83087.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "80-84",
   "b": "2024|Male",
-  "y": 61382.0
+  "y": 61377.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2024|Female",
-  "y": 56383.0
+  "y": 56379.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "85-89",
   "b": "2024|Male",
-  "y": 37230.0
+  "y": 37242.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2024|Female",
-  "y": 35954.0
+  "y": 35967.0
  },
  {
   "dataset": "london_age_sex_pyramid",
   "xd": "90+",
   "b": "2024|Male",
-  "y": 18486.0
+  "y": 18502.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "0-4",
+  "b": "2025|Female",
+  "y": 250471.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "0-4",
+  "b": "2025|Male",
+  "y": 263078.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "10-14",
+  "b": "2025|Female",
+  "y": 249189.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "10-14",
+  "b": "2025|Male",
+  "y": 260940.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "15-19",
+  "b": "2025|Female",
+  "y": 251166.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "15-19",
+  "b": "2025|Male",
+  "y": 261795.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "20-24",
+  "b": "2025|Female",
+  "y": 326944.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "20-24",
+  "b": "2025|Male",
+  "y": 318789.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "25-29",
+  "b": "2025|Female",
+  "y": 454647.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "25-29",
+  "b": "2025|Male",
+  "y": 433574.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "30-34",
+  "b": "2025|Female",
+  "y": 412497.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "30-34",
+  "b": "2025|Male",
+  "y": 400274.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "35-39",
+  "b": "2025|Female",
+  "y": 380692.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "35-39",
+  "b": "2025|Male",
+  "y": 353228.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "40-44",
+  "b": "2025|Female",
+  "y": 351791.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "40-44",
+  "b": "2025|Male",
+  "y": 321112.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "45-49",
+  "b": "2025|Female",
+  "y": 319316.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "45-49",
+  "b": "2025|Male",
+  "y": 296710.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "5-9",
+  "b": "2025|Female",
+  "y": 244356.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "5-9",
+  "b": "2025|Male",
+  "y": 256184.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "50-54",
+  "b": "2025|Female",
+  "y": 289336.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "50-54",
+  "b": "2025|Male",
+  "y": 274686.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "55-59",
+  "b": "2025|Female",
+  "y": 276418.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "55-59",
+  "b": "2025|Male",
+  "y": 259608.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "60-64",
+  "b": "2025|Female",
+  "y": 240720.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "60-64",
+  "b": "2025|Male",
+  "y": 222870.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "65-69",
+  "b": "2025|Female",
+  "y": 184960.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "65-69",
+  "b": "2025|Male",
+  "y": 170398.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "70-74",
+  "b": "2025|Female",
+  "y": 144768.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "70-74",
+  "b": "2025|Male",
+  "y": 124677.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "75-79",
+  "b": "2025|Female",
+  "y": 126124.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "75-79",
+  "b": "2025|Male",
+  "y": 102515.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "80-84",
+  "b": "2025|Female",
+  "y": 84765.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "80-84",
+  "b": "2025|Male",
+  "y": 62716.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "85-89",
+  "b": "2025|Female",
+  "y": 57264.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "85-89",
+  "b": "2025|Male",
+  "y": 38156.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "90+",
+  "b": "2025|Female",
+  "y": 36953.0
+ },
+ {
+  "dataset": "london_age_sex_pyramid",
+  "xd": "90+",
+  "b": "2025|Male",
+  "y": 19222.0
  }
 ]

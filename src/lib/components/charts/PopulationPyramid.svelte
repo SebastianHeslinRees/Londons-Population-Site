@@ -63,7 +63,51 @@
 	const labelWidth = width - 2 * barAreaWidth - centerGap;
 
 	const barWidth = (value: number) => (value / maxValue) * barAreaWidth;
+
+	let tooltip = $state<{ label: string; x: number; y: number } | null>(null);
+
+	const showTooltip = (event: MouseEvent, label: string) => {
+		tooltip = {
+			label,
+			x: event.clientX + 14,
+			y: event.clientY - 16
+		};
+	};
+
+	const hideTooltip = () => {
+		tooltip = null;
+	};
 </script>
+
+<style>
+	.pyramid-tooltip {
+		position: fixed;
+		z-index: 50;
+		pointer-events: none;
+		transform: translate(0, -100%);
+		border: 1px solid rgba(255, 255, 255, 0.15);
+		border-radius: 0;
+		background: rgba(10, 14, 22, 0.96);
+		box-shadow: 0 12px 24px rgba(0, 0, 0, 0.28);
+		padding: 0.5rem 0.75rem;
+		color: rgb(255 255 255);
+		font-size: 0.75rem;
+		font-weight: 600;
+		line-height: 1.3;
+		white-space: nowrap;
+	}
+
+	.pyramid-tooltip::after {
+		content: '';
+		position: absolute;
+		left: 50%;
+		bottom: -8px;
+		transform: translateX(-50%);
+		border-width: 8px 8px 0 8px;
+		border-style: solid;
+		border-color: rgba(10, 14, 22, 0.96) transparent transparent transparent;
+	}
+</style>
 
 <div class="not-prose my-6 space-y-3">
 	{#if title}
@@ -99,11 +143,14 @@
 					height={rowHeight - 2}
 					fill={maleColor}
 					pointer-events="all"
-					title={`Male, ${row.ageBand}: ${formatValue(row.male)}`}
-					aria-label={`Male, ${row.ageBand}: ${formatValue(row.male)}`}
-				>
-					<title>Male, {row.ageBand}: {formatValue(row.male)}</title>
-				</rect>
+					aria-label={`Year: ${selectedYear}, Male, ${row.ageBand}: ${formatValue(row.male)}`}
+					onmouseenter={(event) =>
+						showTooltip(event, `Year: ${selectedYear} • Male • ${row.ageBand}: ${formatValue(row.male)}`)}
+					onmouseleave={hideTooltip}
+					onmousemove={(event) =>
+						showTooltip(event, `Year: ${selectedYear} • Male • ${row.ageBand}: ${formatValue(row.male)}`)}
+				/>
+
 			{/each}
 		</g>
 
@@ -117,11 +164,14 @@
 					height={rowHeight - 2}
 					fill={femaleColor}
 					pointer-events="all"
-					title={`Female, ${row.ageBand}: ${formatValue(row.female)}`}
-					aria-label={`Female, ${row.ageBand}: ${formatValue(row.female)}`}
-				>
-					<title>Female, {row.ageBand}: {formatValue(row.female)}</title>
-				</rect>
+					aria-label={`Year: ${selectedYear}, Female, ${row.ageBand}: ${formatValue(row.female)}`}
+					onmouseenter={(event) =>
+						showTooltip(event, `Year: ${selectedYear} • Female • ${row.ageBand}: ${formatValue(row.female)}`)}
+					onmouseleave={hideTooltip}
+					onmousemove={(event) =>
+						showTooltip(event, `Year: ${selectedYear} • Female • ${row.ageBand}: ${formatValue(row.female)}`)}
+				/>
+
 			{/each}
 		</g>
 
@@ -140,6 +190,15 @@
 			{/each}
 		</g>
 	</svg>
+
+	{#if tooltip}
+		<div
+			class="pyramid-tooltip"
+			style="left: {tooltip.x}px; top: {tooltip.y}px;"
+		>
+			{tooltip.label}
+		</div>
+	{/if}
 
 	<div class="flex items-center justify-center gap-6">
 		<span class="product caption flex items-center gap-2 text-color-text-muted">
