@@ -1,104 +1,82 @@
----
-Title: Population projection analysis
-Public: true
-URL: https://apps.london.gov.uk/analysis/population-projections
-Framework: Svelte
-Services:
----
+# London’s population site
 
-# Population projection analysis 
+This repository contains the static web app for London’s demographic reporting and population analysis. It is built with SvelteKit and produces a publication-style site covering London population totals, age structure, change over time, and related demographic datasets.
 
-A repo for the demography team population projections report
+## Project overview
 
+The app reads locally generated JSON datasets in `src/lib/data` and renders them into markdown-driven pages and chart components. Content is organised under `src/content`, with page metadata and chart config driving the report structure.
 
-## Content flow
+Key areas of the project:
 
-Markdown files are added to `../content-raw`.
+- `src/content` — page content and report sections
+- `src/lib/components` — reusable UI and chart components
+- `src/lib/data` — generated demographic datasets used by the site
+- `scripts` — data preparation scripts for population and age-structure datasets
+- `public` and `static` — static assets and exported files
 
-These contain details of chart component to be inserted as metadata within fenced metadata blocks.
+## Local setup
 
-Running `npm run build:content` calls `scripts/preprocessCharts.mjs`, which adds import statements and replaces the YAML with a usage of a Svelte component, writing these to `src/content`; because the contents of this directory are auto-generated, it is gitignored.
-It also calls `velite` to re-index the markdown files it has written.
+Install dependencies:
 
-For example, if `../content-raw/state-of-london/index.md` contains:
-
-```md
-
----
-title: Key stories for London
-description: Highlights across a range of the report’s chapters
-section: London in Figures
-navLabel: London in Figures
----
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac aliquet mi.
-
-
----
-Chart: MultipleLine
-Title: In London, all variable values have fallen steadily since 2017, with Variable A experiencing the most significant fall
-Subtitle: London monthly estimated variable values (GBP), January 2015 to March 2024
-Byline: GLA City Intelligence
----
-
+```bash
+npm install
 ```
 
-Then after running the script, ` src/content/state-of-london/index.md` will contain:
+Run the site locally:
 
-```md
----
-title: Key stories for London
-description: Highlights across a range of the report’s chapters
-section: London in Figures
-navLabel: London in Figures
----
-
-<script>
-import MultipleLine from "$lib/components/charts/MultipleLine.svelte";
-</script>
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac aliquet mi.
-
-
-<MultipleLine
- title="In London, all variable values have fallen steadily since 2017, with Variable A experiencing the most significant fall"
- subtitle="London monthly estimated variable values (GBP), January 2015 to March 2024"
- byline="GLA City Intelligence"
- />
-
+```bash
+npm run dev
 ```
 
-Note that if the markdown fle in `content-raw` is being generated from a Word document by Pandoc, then the initial word document should contain the `---` character sequence (not the horizontal rule that Word suggests replacing this with); Pandoc will convert this to `\-\--`, and `scripts/preprocessCharts.mjs` will convert this back to `---` before replacing the block with a Svelte component.
+Build the production site:
 
+```bash
+npm run build
+```
 
-## Architecture
+Run type checks:
 
-This app uses [Velite](https://velite.js.org/) as an application data layer.
-This is configured by [`velite.config.js`](./velite.config.js) to scan the `./src/content` folder for markdown files ('documents'), and saves metadata about these files in the `.velite/docs.json` index file.
+```bash
+npm run check
+```
 
-As part of `npm run dev`, `velite --watch` is started, which will watch for file changes as long as it is running.
+## Data pipeline
 
-The addition of new markdown files, changes to the markdown frontmatter or schema are only picked up after running `npm run build:content` or `npm run build`
+The project uses generated JSON files derived from source data. The main source-building script is:
 
-The [`svelte.config.js`](svelte.config.js) file defines a `$content/*` alias that resolves to `.velite/*`.
-It also specifies that [mdsvex](https://mdsvex.pngwn.io/docs) should be called as a pre-processor (configured by [`mdsvex.config.js`](./mdsvex.config.js)), so that markdown is rendered as formatted HTML rather than the raw markdown text. `mdsvex` also allows Svelte components to be used within markdown documents, similarly to how MDX allows React components to be used within markdown documents.
+```bash
+python3 scripts/build_london_from_single_source.py /path/to/london_sex_age_totals.csv
+```
 
-The [`vite.config.ts`](./vite.config.ts) config file allows file-system access to the `./velite` directory.
+This script creates the data files used by the site, including:
 
-The [`src/lib/utils.ts`](./src/lib/utils.ts) file imports the index file from `$content/index.js` and exports functions that return documents and/or their metadata.
-These can be used within the [`load()` functions of `+page.ts` files](https://svelte.dev/docs/kit/load#Page-data); SvelteKit provides whatever this function returns to the corresponding `+page.svelte` file as the `data` prop.
+- `src/lib/data/londonPopulationTotal.json`
+- `src/lib/data/londonAgeStructure.json`
+- `src/lib/data/londonAgeGroups.json`
+- `src/lib/data/londonComponentsOfChange.json`
 
-## Images in markdown
+The site uses these generated files to populate the charts and summary figures displayed on the pages.
 
-We use a custom blueprint which means that rather than being converted directly into an HTML `<img>` element, a markdown image is instead converted to our custom Svelte component defined in `src/lib/components/markdown/img.svelte`.
-This component uses theme aware switching, and the [svelte enhanced-img plugin](https://svelte.dev/docs/kit/images#sveltejs-enhanced-img) for format and resolution optimization.
+## Content workflow
 
-Include the image using the normal markdown syntax:
+The report pages are authored as markdown in `src/content` and rendered through the SvelteKit + mdsvex pipeline.
 
-    ![alt text](/image-name.png)
+Common commands:
 
-Images should then be added to `src/lib/assets/images/...`. The blueprint will look for `image-name`, `image-name-light` and `image-name-dark` (each followed by image extension - e.g. `image-name-dark.png`).
-In light mode, the component will render `image-name-light` if it exists, and `image-name` if it does not.
-In dark mode, the component will render `image-name-dark` if it exists, and `image-name` if it does not.
-If images should not mode switch, just include a single image that is not suffixed with either `-light` or `-dark`.
+```bash
+npm run build:content
+npm run dev
+npm run build
+```
+
+`npm run build:content` regenerates content from the structured markdown setup and refreshes the content index used by the app.
+
+## Repository conventions
+
+- `*.csv` source files are ignored in `.gitignore` so local data inputs are not committed.
+- Generated content and build artefacts stay out of source control.
+- The app is configured around a publication-style data report rather than a generic app shell.
+
+## Notes
+
+This project is primarily a demographic analysis and reporting site for London, with the data pipeline and chart components designed around population estimates, age structure, and change over time.
